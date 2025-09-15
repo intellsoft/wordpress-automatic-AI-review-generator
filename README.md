@@ -1,8 +1,8 @@
 # افزونه تولید خودکار نظرات هوش مصنوعی برای وردپرس
 
-![ورژن افزونه](https://img.shields.io/b/version-1.5-green.svg)
-![محدوده وردپرس](https://img.shields.io/b/wordpress-5.0+-blue.svg)
-![پHP مورد نیاز](https://img.shields.io/b/php-7.4+-purple.svg)
+![](https://lh3.googleusercontent.com/d/1ygCqwpW04MkKx6rlnP-TEFYPZ0cum92p)
+![](https://lh3.googleusercontent.com/d/19flkmaMfLa5k1o78irpsFyY_vxdAZ2fW)
+
 
 ## معرفی افزونه
 
