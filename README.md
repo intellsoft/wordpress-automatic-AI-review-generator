@@ -1,7 +1,7 @@
 # افزونه تولید خودکار نظرات هوش مصنوعی برای وردپرس
 
-![](https://lh3.googleusercontent.com/d/1ygCqwpW04MkKx6rlnP-TEFYPZ0cum92p)
-![](https://lh3.googleusercontent.com/d/19flkmaMfLa5k1o78irpsFyY_vxdAZ2fW)
+![صفحه نظرات ساخته شده](https://lh3.googleusercontent.com/d/1ygCqwpW04MkKx6rlnP-TEFYPZ0cum92p)
+![صفحه تنظیمات افزونه](https://lh3.googleusercontent.com/d/19flkmaMfLa5k1o78irpsFyY_vxdAZ2fW)
 
 
 ## معرفی افزونه
