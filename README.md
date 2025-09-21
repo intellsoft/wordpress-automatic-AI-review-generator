@@ -60,7 +60,7 @@ A powerful WordPress plugin that automatically generates realistic comments for 
 
 ## 🌐 اطلاعات بیشتر
 
-برای اطلاعات بیشتر و دانلود آخرین نسخه به [سایت سازنده](https://intellsoft.ir/product/wordpress-plugin-for-ai-powered-automatic-comment-generation/) مراجعه کنید.
+برای اطلاعات بیشتر و دانلود آخرین نسخه به [پلاگین وردپرس برای تولید خودکار نظرات با هوش مصنوعی](https://intellsoft.ir/product/wordpress-plugin-for-ai-powered-automatic-comment-generation/) مراجعه کنید.
 
 </div>
 
