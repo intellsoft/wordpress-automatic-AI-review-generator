@@ -1,4 +1,3 @@
-```markdown
 # افزونه تولید خودکار نظرات و پاسخ‌های هوش مصنوعی برای وردپرس - نسخه 3.0.1
 
 ![صفحه نظرات ساخته شده](https://lh3.googleusercontent.com/d/1ygCqwpW04MkKx6rlnP-TEFYPZ0cum92p)
