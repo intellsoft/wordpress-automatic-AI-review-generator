@@ -1,7 +1,7 @@
 # افزونه تولید خودکار نظرات و پاسخ‌های هوش مصنوعی برای وردپرس - نسخه 3.0.1
 
-![صفحه نظرات ساخته شده](https://lh3.googleusercontent.com/d/1ygCqwpW04MkKx6rlnP-TEFYPZ0cum92p)
-![صفحه تنظیمات افزونه](https://lh3.googleusercontent.com/d/19flkmaMfLa5k1o78irpsFyY_vxdAZ2fW)
+![صفحه نظرات ساخته شده](https://lh3.googleusercontent.com/d/1ciXQdvfiD_e1bm-sMyndsSTnapULikM9)
+![صفحه تنظیمات افزونه](https://lh3.googleusercontent.com/d/1iANT1c0v80VnttzQ3TqD1uN5XJh7swDd)
 
 # WordPress AI-Powered Automatic Comments & Responses Plugin - Version 3.0.1
 
