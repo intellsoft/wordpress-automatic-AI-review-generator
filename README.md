@@ -1,47 +1,142 @@
-# افزونه تولید خودکار نظرات هوش مصنوعی برای وردپرس
+```markdown
+# افزونه تولید خودکار نظرات و پاسخ‌های هوش مصنوعی برای وردپرس - نسخه 3.0.1
 
 ![صفحه نظرات ساخته شده](https://lh3.googleusercontent.com/d/1ygCqwpW04MkKx6rlnP-TEFYPZ0cum92p)
 ![صفحه تنظیمات افزونه](https://lh3.googleusercontent.com/d/19flkmaMfLa5k1o78irpsFyY_vxdAZ2fW)
 
-
-# WordPress Plugin for AI-Powered Automatic Comment Generation 🤖💬
-
-A powerful WordPress plugin that automatically generates realistic comments for your posts and products using AI technology through OpenRouter.
-
-## فارسی (فارسی)
+# WordPress AI-Powered Automatic Comments & Responses Plugin - Version 3.0.1
 
 <div dir="rtl">
 
-# پلاگین وردپرس برای تولید خودکار نظرات با هوش مصنوعی 🤖💬
+# پلاگین وردپرس برای تولید خودکار نظرات و پاسخ‌های هوش مصنوعی 🤖💬
 
-یک افزونه قدرتمند وردپرس که به صورت خودکار نظرات واقعی و طبیعی برای مطالب و محصولات شما با استفاده از فناوری هوش مصنوعی از طریق OpenRouter تولید می‌کند.
+## ✨ ویژگی‌های کلیدی نسخه 3.0.1
 
-## ✨ ویژگی‌های اصلی
+### 🚀 **سیستم تولید نظرات هوشمند**
+- تولید خودکار نظرات واقعی و طبیعی برای مطالب و محصولات
+- پشتیبانی از انواع مختلف نظرات (نقد، پرسش و پاسخ)
+- قابلیت شخصی‌سازی شخصیت نظردهندگان (مشتاق، شکاک، متخصص، منتقد سازنده)
 
-- 🚀 **تولید خودکار نظرات** - تولید نظرات واقعی و طبیعی برای مطالب و محصولات
-- 🤖 **پشتیبانی از چندین مدل هوش مصنوعی** - بیش از 50 مدل مختلف از OpenRouter
-- ⏰ **زمان‌بندی هوشمند** - اجرای خودکار در ساعات شب برای کاهش مصرف منابع
-- 📊 **مدیریت پیشرفته** - امکان ویرایش، تایید و حذف نظرات تولید شده
-- 🛒 **سازگاری با ووکامرس** - پشتیبانی کامل از نظرات محصولات
-- 🔧 **قابلیت تنظیم دقیق** - کنترل کامل روی تعداد نظرات و مطالب پردازشی
-- 🌙 **حالت شب** - اجرای خودکار فقط در بازه زمانی قابل تنظیم
-- 📝 **ویرایش زنده** - امکان ویرایش نظرات قبل از تایید نهایی
-- 🔄 **پشتیبانی از چندین نوع محتوا** - پست‌ها، صفحات و محصولات
+### 🤖 **پاسخ‌دهی خودکار به نظرات کاربران**
+- **سیستم پاسخ‌دهی هوشمند**: پاسخ‌گویی خودکار به نظرات تایید شده کاربران
+- **پاسخ‌دهی گروهی**: امکان پاسخ‌دهی به تمام نظرات بی‌پاسخ یک‌جا
+- **جدول مدیریت نظرات**: ستون اختصاصی برای پاسخ‌دهی AI در صفحه نظرات وردپرس
 
-## 🎯 مزایای استفاده
+### 📊 **مدیریت پیشرفته و نظارت کامل**
+- **صفحه وضعیت سیستم**: نمایش لحظه‌ای وضعیت API، محدودیت‌ها و آمار استفاده
+- **مانیتورینگ API**: بررسی خودکار وضعیت سهمیه و محدودیت‌های OpenRouter
+- **لاگ‌گیری کامل**: ثبت جزئیات تمام فرآیندها برای عیب‌یابی
 
-- ✅ **صرفه‌جویی در زمان** - عدم نیاز به تولید دستی نظرات
-- ✅ **افزایش engagement** - افزایش تعامل با تولید نظرات متنوع
-- ✅ **سئو بهتر** - بهبود سئو با افزایش نظرات واقعی
-- ✅ **طبیعی بودن** - نظرات تولید شده کاملا طبیعی و انسانی به نظر می‌رسند
-- ✅ **قابلیت شخصی‌سازی** - امکان تنظیم دستورات خاص برای تولید نظرات
-- ✅ **رایگان و پرداختی** - پشتیبانی از مدل‌های رایگان و پرداختی
+### ⚡ **بهینه‌سازی‌های عملکردی**
+- **بررسی زمان شب**: اجرای خودکار فقط در بازه زمانی قابل تنظیم
+- **مدیریت حافظه**: تنظیم time_limit خودکار برای پردازش‌های طولانی
+- **تاخیر هوشمند**: جلوگیری از block شدن با تاخیر بین درخواست‌ها
 
-## 🛠 مدل‌های هوش مصنوعی پشتیبانی شده
+### 🛠 **قابلیت‌های فنی پیشرفته**
+- **پشتیبانی از 50+ مدل AI**: مدل‌های رایگان و پرداختی OpenRouter
+- **سیستم کشینگ**: ذخیره‌سازی موقت اطلاعات محدودیت‌های API
+- **AJAX Real-time**: رابط کاربری واکنش‌گرا با به‌روزرسانی زنده
 
-<div dir="rtl">
+## 🎯 **مزایای اصلی برای کاربران**
 
-# پلاگین وردپرس برای تولید خودکار نظرات با هوش مصنوعی 🤖💬
+### 💰 **صرفه‌جویی در هزینه و زمان**
+- حذف نیاز به تولید دستی نظرات و پاسخ‌ها
+- کاهش قابل توجه زمان مدیریت محتوا
+- استفاده بهینه از مدل‌های رایگان برای کاهش هزینه‌ها
+
+### 📈 **افزایش تعامل و سئو**
+- افزایش طبیعی نرخ تعامل (Engagement Rate)
+- بهبود سئو با تولید محتوای کاربرپسند
+- ایجاد محیطی پویا و فعال در بخش نظرات
+
+### 🔒 **قابلیت اطمینان بالا**
+- سیستم مانیتورینگ خودکار برای پیشگیری از errors
+- هشدارهای هوشمند قبل از اتمام سهمیه API
+- بازیابی خودکار از خطاهای موقت
+
+### 🎨 **کاربری آسان**
+- رابط کاربری فارسی و intuitive
+- راهنمای جامع استفاده
+- تنظیمات قابل شخصی‌سازی پیشرفته
+
+## 🆕 **امکانات جدید در نسخه 3.0.1**
+
+### 1. **سیستم پاسخ‌دهی هوشمند**
+- پاسخ‌گویی خودکار به نظرات محصولات و مقالات
+- قابلیت اجرای دستی و گروهی پاسخ‌دهی
+- مدیریت پاسخ‌ها در جدول یکپارچه
+
+### 2. **صفحه وضعیت سیستم پیشرفته**
+- نمایش گرافیکی مصرف سهمیه API
+- اطلاعات دقیق محدودیت‌های درخواست و توکن
+- هشدارهای هوشمند برای وضعیت‌های بحرانی
+
+### 3. **بهینه‌سازی‌های امنیتی**
+- بررسی nonce برای تمام عملیات AJAX
+- فیلتر کردن کاراکترهای نامناسب در خروجی
+- مدیریت خطاهای پیشرفته
+
+### 4. **تجربه کاربری بهبودیافته**
+- notifications زنده برای عملیات
+- بارگذاری مجدد خودکار پس از اجرای عملیات
+- وضعیت‌نمای پیشرفت عملیات
+
+## 🛠 **مدل‌های هوش مصنوعی پشتیبانی شده**
+
+افزونه از بیش از 50 مدل هوش مصنوعی از طریق OpenRouter پشتیبانی می‌کند:
+
+### 🏆 **مدل‌های پیشرفته (پرداختی)**
+- `openrouter/sonoma-dusk-alpha` - مدل پیشرفته برای تولید محتوای حرفه‌ای
+- `openrouter/sonoma-sky-alpha` - مناسب برای تحلیل‌های هوشمند
+- `openai/gpt-3.5-turbo` - تعادل عالی بین سرعت و دقت
+
+### 🎯 **مدل‌های رایگان با کارایی بالا**
+- `deepseek/deepseek-chat-v3.1:free` - برای چت و تولید محتوا
+- `google/gemma-2-9b-it:free` - مدل سبک‌وزن گوگل
+- `mistralai/mistral-7b-instruct:free` - همه‌کاره و پایدار
+
+### 📊 **مدل‌های تخصصی**
+- `qwen/qwen3-coder:free` - تخصصی برنامه‌نویسی
+- `agentica-org/deepcoder-14b-preview:free` - تولید کد هوشمند
+
+[لیست کامل مدل‌ها در مستندات اصلی]
+
+## 🚀 **نصب و راه‌اندازی سریع**
+
+### مرحله 1: دریافت کلید API
+1. ثبت‌نام در [OpenRouter](https://openrouter.ai/)
+2. ایجاد کلید API جدید از بخش Keys
+3. کپی کلید (با فرمت `sk-or-v1-...`)
+
+### مرحله 2: نصب افزونه
+1. آپلود فایل پلاگین در وردپرس
+2. فعال‌سازی پلاگین
+3. مراجعه به "نظرات AI" → "تنظیمات"
+
+### مرحله 3: پیکربندی اولیه
+1. وارد کردن کلید API
+2. انتخاب مدل دلخواه
+3. تنظیم بازه زمانی شب
+4. ذخیره تنظیمات
+
+### مرحله 4: شروع استفاده
+1. تولید دستی نظرات از صفحه "لیست نظرات"
+2. تنظیم اجرای خودکار در شب
+3. نظارت بر وضعیت از صفحه "وضعیت سیستم"
+
+## 📞 **پشتیبانی و راهنمایی**
+
+- **مستندات کامل**: راهنمای گام‌به‌گام استفاده
+- **صفحه راهنما**: پاسخ به سوالات متداول
+- **سیستم لاگ**: عیب‌یابی مشکلات فنی
+- **بررسی وضعیت API**: مانیتورینگ لحظه‌ای
+
+## 🔄 **بروزرسانی‌های آتی**
+
+- پشتیبانی از مدل‌های Vision برای تحلیل تصاویر
+- سیستم یادگیری از نظرات کاربران
+- یکپارچه‌سازی با پلتفرم‌های تحلیل احساسات
+- قابلیت برنامه‌ریزی پیشرفته تولید محتوا
 
 ## 🛠 مدل‌های هوش مصنوعی پشتیبانی شده
 
@@ -130,32 +225,139 @@ A powerful WordPress plugin that automatically generates realistic comments for 
 
 ---
 
+---
+
 # English Version
 
-# WordPress Plugin for AI-Powered Automatic Comment Generation 🤖💬
+# WordPress AI-Powered Automatic Comments & Responses Plugin - Version 3.0.1
 
-A powerful WordPress plugin that automatically generates realistic comments for your posts and products using AI technology through OpenRouter.
+## ✨ **Key Features of Version 3.0.1**
 
-## ✨ Key Features
+### 🚀 **Smart Comment Generation System**
+- Automatic generation of realistic comments for posts and products
+- Support for different comment types (reviews, Q&A)
+- Customizable commenter personalities (enthusiastic, skeptical, expert, constructive critic)
 
-- 🚀 **Automatic Comment Generation** - Produces realistic and natural comments for posts and products
-- 🤖 **Multiple AI Models Support** - Over 50 different models from OpenRouter
-- ⏰ **Smart Scheduling** - Automatic execution during night hours to reduce resource consumption
-- 📊 **Advanced Management** - Edit, approve, and delete generated comments
-- 🛒 **WooCommerce Compatibility** - Full support for product reviews
-- 🔧 **Precise Configuration** - Full control over number of comments and processed content
-- 🌙 **Night Mode** - Automatic execution only during configurable time window
-- 📝 **Live Editing** - Ability to edit comments before final approval
-- 🔄 **Multiple Content Type Support** - Posts, pages, and products
+### 🤖 **Automatic Response System**
+- **Smart Response Engine**: Automatic replies to approved user comments
+- **Bulk Response Processing**: One-click responses to all unanswered comments
+- **Enhanced Comments Dashboard**: Dedicated AI response column in WordPress comments
 
-## 🎯 Benefits
+### 📊 **Advanced Management & Monitoring**
+- **System Status Page**: Real-time API status, limits, and usage statistics
+- **API Monitoring**: Automatic quota and limits checking for OpenRouter
+- **Comprehensive Logging**: Detailed process tracking for troubleshooting
 
-- ✅ **Time Saving** - No need for manual comment generation
-- ✅ **Increased Engagement** - Boost interaction with diverse comments
-- ✅ **Better SEO** - Improve SEO with increased genuine comments
-- ✅ **Natural Appearance** - Generated comments look completely natural and human-like
-- ✅ **Customization** - Ability to set specific instructions for comment generation
-- ✅ **Free & Paid Options** - Support for both free and paid models
+### ⚡ **Performance Optimizations**
+- **Night Time Checking**: Automatic execution only during configured time windows
+- **Memory Management**: Automatic time_limit settings for long processes
+- **Smart Delays**: Intelligent delays between requests to prevent blocking
+
+### 🛠 **Advanced Technical Capabilities**
+- **50+ AI Models Support**: Free and paid OpenRouter models
+- **Caching System**: Temporary storage of API limits data
+- **AJAX Real-time**: Responsive UI with live updates
+
+## 🎯 **Key Benefits for Users**
+
+### 💰 **Cost & Time Savings**
+- Eliminates manual comment and response creation
+- Significantly reduces content management time
+- Optimal use of free models to minimize costs
+
+### 📈 **Enhanced Engagement & SEO**
+- Natural increase in engagement rates
+- SEO improvement with user-friendly content
+- Creates dynamic and active comment sections
+
+### 🔒 **High Reliability**
+- Automated monitoring to prevent errors
+- Smart alerts before API quota exhaustion
+- Automatic recovery from temporary errors
+
+### 🎨 **User-Friendly Experience**
+- Persian and intuitive user interface
+- Comprehensive usage guide
+- Advanced customizable settings
+
+## 🆕 **New Features in Version 3.0.1**
+
+### 1. **Smart Response System**
+- Automatic replies to product and post comments
+- Manual and bulk response capabilities
+- Unified response management table
+
+### 2. **Advanced System Status Page**
+- Graphical API quota usage display
+- Detailed request and token limits information
+- Smart alerts for critical situations
+
+### 3. **Security Optimizations**
+- Nonce verification for all AJAX operations
+- Inappropriate character filtering in outputs
+- Advanced error handling
+
+### 4. **Improved User Experience**
+- Live operation notifications
+- Automatic reload after operations
+- Progress indicators for long processes
+
+## 🛠 **Supported AI Models**
+
+The plugin supports 50+ AI models through OpenRouter:
+
+### 🏆 **Advanced Models (Paid)**
+- `openrouter/sonoma-dusk-alpha` - Advanced professional content generation
+- `openrouter/sonoma-sky-alpha` - Ideal for intelligent analysis
+- `openai/gpt-3.5-turbo` - Perfect balance of speed and accuracy
+
+### 🎯 **High-Performance Free Models**
+- `deepseek/deepseek-chat-v3.1:free` - For chat and content generation
+- `google/gemma-2-9b-it:free` - Google's lightweight model
+- `mistralai/mistral-7b-instruct:free` - Versatile and stable
+
+### 📊 **Specialized Models**
+- `qwen/qwen3-coder:free` - Programming specialized
+- `agentica-org/deepcoder-14b-preview:free` - Smart code generation
+
+[Complete model list in main documentation]
+
+## 🚀 **Quick Installation Guide**
+
+### Step 1: Get API Key
+1. Register at [OpenRouter](https://openrouter.ai/)
+2. Create new API key from Keys section
+3. Copy key (format: `sk-or-v1-...`)
+
+### Step 2: Install Plugin
+1. Upload plugin file to WordPress
+2. Activate plugin
+3. Go to "AI Reviews" → "Settings"
+
+### Step 3: Initial Configuration
+1. Enter API key
+2. Select desired model
+3. Set night time window
+4. Save settings
+
+### Step 4: Start Using
+1. Manual generation from "Comments List"
+2. Set up automatic night execution
+3. Monitor status from "System Status"
+
+## 📞 **Support & Guidance**
+
+- **Complete Documentation**: Step-by-step usage guide
+- **Help Page**: Answers to frequently asked questions
+- **Log System**: Technical issue troubleshooting
+- **API Status Monitoring**: Real-time monitoring
+
+## 🔄 **Future Updates**
+
+- Vision models support for image analysis
+- Learning system from user comments
+- Integration with sentiment analysis platforms
+- Advanced content scheduling capabilities
 
 
 ## 🛠 Supported AI Models
@@ -234,3 +436,5 @@ A powerful WordPress plugin that automatically generates realistic comments for 
 ## 🌐 More Information
 
 For more information and to download the latest version, visit the [developer website](https://intellsoft.ir/product/wordpress-plugin-for-ai-powered-automatic-comment-generation/).
+
+</div>
