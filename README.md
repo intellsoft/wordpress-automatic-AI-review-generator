@@ -1,4 +1,4 @@
- کامنت‌سازی خودکار در وردپرس با استفاده از هوش مصنوعی (AI)#
+ ##کامنت‌سازی خودکار در وردپرس با استفاده از هوش مصنوعی (AI)
  
 ![Comments Page](https://lh3.googleusercontent.com/d/1l1Rm5NCXh9Z-mHTEQHJ1D66EJ5Wbmm7x)
 ![Plugin Settings](https://lh3.googleusercontent.com/d/1iANT1c0v80VnttzQ3TqD1uN5XJh7swDd)
