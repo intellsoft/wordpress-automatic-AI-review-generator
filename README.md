@@ -1,13 +1,13 @@
-# WordPress AI-Powered Automatic Comments & Responses Plugin - Version 3.2.1
+# WordPress AI-Powered Automatic Comments & Responses Plugin
 
 ![Comments Page](https://lh3.googleusercontent.com/d/1l1Rm5NCXh9Z-mHTEQHJ1D66EJ5Wbmm7x)
 ![Plugin Settings](https://lh3.googleusercontent.com/d/1iANT1c0v80VnttzQ3TqD1uN5XJh7swDd)
 
 <div dir="rtl">
 
-# افزونه تولید خودکار نظرات و پاسخ‌های هوش مصنوعی برای وردپرس - نسخه 3.0.1
+# افزونه تولید خودکار نظرات و پاسخ‌های هوش مصنوعی برای وردپرس
 
-## ✨ ویژگی‌های جدید در نسخه 3.0.1
+## ✨ ویژگی‌های جدید
 
 ### 🚀 **سیستم پاسخ‌دهی هوشمند**
 - پاسخ‌گویی خودکار به نظرات تایید شده کاربران
