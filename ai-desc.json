@@ -1,34 +1,152 @@
 {
-    "alibaba\/tongyi-deepresearch-30b-a3b:free": "مدل 30 بیتی تحقیقات عمیق علی‌بابا برای تحلیل‌های پیشرفته",
-    "allenai\/olmo-3-32b-think:free": "مدل 32 بیتی Olmo نسخه 3 با قابلیت تفکر عمیق",
-    "amazon\/nova-2-lite-v1:free": "مدل سبک و کارآمد آمازون برای وظایف پردازش زبان طبیعی",
-    "arcee-ai\/trinity-mini:free": "مدل کوچک Trinity با قابلیت‌های چندوجهی برای پردازش زبان",
-    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "مدل 24 بیتی Dolphin-Mistral با قابلیت‌های پردازش زبان پیشرفته",
-    "google\/gemini-2.0-flash-exp:free": "مدل Gemini نسخه 2.0 با قابلیت‌های پردازش سریع و تجربی",
-    "google\/gemma-3-12b-it:free": "مدل 12 بیتی Gemma نسخه 3 برای وظایف پردازش زبان",
-    "google\/gemma-3-27b-it:free": "مدل 27 بیتی Gemma نسخه 3 با قابلیت‌های پیشرفته پردازش زبان",
-    "google\/gemma-3-4b-it:free": "مدل 4 بیتی Gemma نسخه 3 برای پردازش زبان طبیعی",
-    "google\/gemma-3n-e2b-it:free": "مدل Gemma نسخه 3 با قابلیت درک و تولید متن به زبان‌های مختلف",
-    "google\/gemma-3n-e4b-it:free": "مدل Gemma نسخه 3 با قابلیت پردازش زبان برای کاربردهای گسترده",
-    "kwaipilot\/kat-coder-pro:free": "مدل تخصصی KAT-Coder برای برنامه‌نویسی و کدنویسی",
-    "meta-llama\/llama-3.2-3b-instruct:free": "مدل 3 بیتی Llama نسخه 3.2 برای دستورالعمل‌های پردازش زبان",
-    "meta-llama\/llama-3.3-70b-instruct:free": "مدل 70 بیتی Llama نسخه 3.3 برای دستورالعمل‌های پردازش زبان",
-    "mistralai\/devstral-2512:free": "مدل زبانی Mistral با قابلیت درک و تولید متن پیشرفته",
-    "mistralai\/mistral-7b-instruct:free": "مدل 7 بیتی Mistral برای دستورالعمل‌های پردازش زبان طبیعی",
-    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل 24 بیتی Mistral Small نسخه 3.1 برای دستورالعمل‌های پردازش زبان",
-    "moonshotai\/kimi-k2:free": "مدل Kimi نسخه 2 با قابلیت‌های پیشرفته تحلیل و تولید محتوا",
-    "nex-agi\/deepseek-v3.1-nex-n1:free": "مدل Deepseek نسخه 3.1 با قابلیت‌های پیشرفته تحلیل و تولید محتوا",
-    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل 405 بیتی Hermes نسخه 3 مبتنی بر Llama با قابلیت‌های پیشرفته",
-    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل زبان بزرگ 30 بیتی نVIDIA برای تولید متن با کیفیت بالا",
-    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل 12 بیتی Nemotron با قابلیت پردازش تصویر و متن",
-    "nvidia\/nemotron-nano-9b-v2:free": "مدل 9 بیتی سبک Nemotron نسخه 2 برای پردازش زبان",
-    "openai\/gpt-oss-120b:free": "مدل 120 بیتی متن‌باز GPT با قابلیت‌های تولید متن پیشرفته",
-    "openai\/gpt-oss-20b:free": "مدل 20 بیتی متن‌باز GPT برای وظایف پردازش زبان طبیعی",
-    "qwen\/qwen3-235b-a22b:free": "مدل 235 بیتی Qwen3 با قابلیت‌های پیشرفته تولید متن",
-    "qwen\/qwen3-4b:free": "مدل 4 بیتی Qwen3 برای پردازش زبان طبیعی",
-    "qwen\/qwen3-coder:free": "مدل تخصصی Qwen3 برای برنامه‌نویسی و توسعه نرم‌افزار",
-    "tngtech\/deepseek-r1t-chimera:free": "مدل ترکیبی Deepseek-R1T با قابلیت‌های متنوع پردازش زبان",
-    "tngtech\/deepseek-r1t2-chimera:free": "مدل ترکیبی Deepseek-R1T2 با قابلیت‌های متنوع پردازش زبان",
-    "tngtech\/tng-r1t-chimera:free": "مدل ترکیبی TNG-R1T با قابلیت‌های متنوع پردازش زبان",
-    "z-ai\/glm-4.5-air:free": "مدل GLM نسخه 4.5 سبک و کارآمد برای پردازش زبان"
+    "models": [
+        {
+            "model_id": "allenai\/olmo-3.1-32b-think:free",
+            "description": "مدل زبانی پیشرفته OLMO با 32 میلیارد پارامتر که برای استدلال و تفکر طراحی شده است."
+        },
+        {
+            "model_id": "xiaomi\/mimo-v2-flash:free",
+            "description": "مدل زبانی سریع و سبک MIMO نسخه 2 که توسط شیائومی توسعه یافته است."
+        },
+        {
+            "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+            "description": "مدل Nemotron 3 با 30 میلیارد پارامتر که توسط NVIDIA برای کاربردهای پیشرفته توسعه یافته است."
+        },
+        {
+            "model_id": "mistralai\/devstral-2512:free",
+            "description": "مدل زبانی Devstral که توسط Mistral AI برای توسعه و تولید کد بهینه شده است."
+        },
+        {
+            "model_id": "nex-agi\/deepseek-v3.1-nex-n1:free",
+            "description": "نسخه بهبودیافته Deepseek v3.1 که توسط Nex-AGI برای استدلال پیشرفته طراحی شده است."
+        },
+        {
+            "model_id": "amazon\/nova-2-lite-v1:free",
+            "description": "مدل زبانی سبک Nova 2 نسخه 1 که توسط آمازون برای کاربردهای متنوع توسعه یافته است."
+        },
+        {
+            "model_id": "arcee-ai\/trinity-mini:free",
+            "description": "مدل زبانی کوچک Trinity که توسط Arcee AI برای کاربردهای سبک و سریع بهینه شده است."
+        },
+        {
+            "model_id": "tngtech\/tng-r1t-chimera:free",
+            "description": "مدل زبانی TNG-R1T Chimera که توسط TNG Tech برای ترکیب قابلیت‌های مختلف طراحی شده است."
+        },
+        {
+            "model_id": "allenai\/olmo-3-32b-think:free",
+            "description": "مدل زبانی OLMO نسخه 3 با 32 میلیارد پارامتر که برای تفکر و استدلال بهینه شده است."
+        },
+        {
+            "model_id": "kwaipilot\/kat-coder-pro:free",
+            "description": "مدل برنامه‌نویسی KAT Coder Pro که توسط Kwai Pilot برای تولید کد باکیفیت توسعه یافته است."
+        },
+        {
+            "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+            "description": "مدل Nemotron Nano با 12 میلیارد پارامتر نسخه 2 که قابلیت پردازش تصویر (VL) دارد."
+        },
+        {
+            "model_id": "alibaba\/tongyi-deepresearch-30b-a3b:free",
+            "description": "مدل زبانی Tongyi DeepResearch با 30 میلیارد پارامتر که توسط علی‌بابا برای تحقیقات عمیق توسعه یافته است."
+        },
+        {
+            "model_id": "nvidia\/nemotron-nano-9b-v2:free",
+            "description": "مدل Nemotron Nano با 9 میلیارد پارامتر نسخه 2 که توسط NVIDIA برای کاربردهای سبک طراحی شده است."
+        },
+        {
+            "model_id": "openai\/gpt-oss-120b:free",
+            "description": "مدل GPT با 120 میلیارد پارامتر که به صورت متن‌باز توسط OpenAI توسعه یافته است."
+        },
+        {
+            "model_id": "openai\/gpt-oss-20b:free",
+            "description": "مدل GPT با 20 میلیارد پارامتر که به صورت متن‌باز توسط OpenAI توسعه یافته است."
+        },
+        {
+            "model_id": "z-ai\/glm-4.5-air:free",
+            "description": "مدل زبانی GLM نسخه 4.5 سبک که توسط Z-AI برای کاربردهای سریع بهینه شده است."
+        },
+        {
+            "model_id": "qwen\/qwen3-coder:free",
+            "description": "مدل برنامه‌نویسی Qwen3 که توسط Qwen برای تولید و بهینه‌سازی کد توسعه یافته است."
+        },
+        {
+            "model_id": "moonshotai\/kimi-k2:free",
+            "description": "مدل زبانی Kimi K2 که توسط Moonshot AI برای کاربردهای چندزبانه و پیشرفته طراحی شده است."
+        },
+        {
+            "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+            "description": "نسخه ونیزی مدل Dolphin-Mistral با 24 میلیارد پارامتر که توسط Cognitive Computations توسعه یافته است."
+        },
+        {
+            "model_id": "google\/gemma-3n-e2b-it:free",
+            "description": "مدل Gemma 3N با قابلیت توضیح و درک (Instruction-Tuned) که توسط گوگل توسعه یافته است."
+        },
+        {
+            "model_id": "tngtech\/deepseek-r1t2-chimera:free",
+            "description": "مدل زبانی DeepSeek-R1T2 Chimera که توسط TNG Tech برای ترکیب قابلیت‌های مختلف طراحی شده است."
+        },
+        {
+            "model_id": "deepseek\/deepseek-r1-0528:free",
+            "description": "مدل DeepSeek R1 که در مه 2028 توسعه یافته و برای استدلال پیشرفته بهینه شده است."
+        },
+        {
+            "model_id": "google\/gemma-3n-e4b-it:free",
+            "description": "مدل Gemma 3N با 4 میلیارد پارامتر که برای توضیح و درک دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "qwen\/qwen3-4b:free",
+            "description": "مدل زبانی Qwen3 با 4 میلیارد پارامتر که توسط Qwen برای کاربردهای سبک توسعه یافته است."
+        },
+        {
+            "model_id": "qwen\/qwen3-235b-a22b:free",
+            "description": "مدل زبانی Qwen3 با 235 میلیارد پارامتر که توسط Qwen برای کاربردهای پیشرفته توسعه یافته است."
+        },
+        {
+            "model_id": "tngtech\/deepseek-r1t-chimera:free",
+            "description": "مدل زبانی DeepSeek-R1T Chimera که توسط TNG Tech برای ترکیب قابلیت‌های مختلف طراحی شده است."
+        },
+        {
+            "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+            "description": "مدل زبانی Mistral Small نسخه 3.1 با 24 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "google\/gemma-3-4b-it:free",
+            "description": "مدل Gemma 3 با 4 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "google\/gemma-3-12b-it:free",
+            "description": "مدل Gemma 3 با 12 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "google\/gemma-3-27b-it:free",
+            "description": "مدل Gemma 3 با 27 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "google\/gemini-2.0-flash-exp:free",
+            "description": "مدل زبانی Gemini 2.0 نسخه آزمایشی (Experimental) که توسط گوگل برای کاربردهای سریع توسعه یافته است."
+        },
+        {
+            "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
+            "description": "مدل Llama 3.3 با 70 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
+            "description": "مدل Llama 3.2 با 3 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "qwen\/qwen-2.5-vl-7b-instruct:free",
+            "description": "مدل Qwen 2.5 با 7 میلیارد پارامتر که قابلیت درک تصویر (VL) و دستورات دارد."
+        },
+        {
+            "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+            "description": "مدل Hermes 3 مبتنی بر Llama 3.1 با 405 میلیارد پارامتر که توسط Nous Research توسعه یافته است."
+        },
+        {
+            "model_id": "meta-llama\/llama-3.1-405b-instruct:free",
+            "description": "مدل Llama 3.1 با 405 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        },
+        {
+            "model_id": "mistralai\/mistral-7b-instruct:free",
+            "description": "مدل زبانی Mistral با 7 میلیارد پارامتر که برای دستورات (Instruction-Tuned) طراحی شده است."
+        }
+    ]
 }
