@@ -21,7 +21,6 @@ tngtech/deepseek-r1t2-chimera:free
 deepseek/deepseek-r1-0528:free
 google/gemma-3n-e4b-it:free
 qwen/qwen3-4b:free
-qwen/qwen3-235b-a22b:free
 tngtech/deepseek-r1t-chimera:free
 mistralai/mistral-small-3.1-24b-instruct:free
 google/gemma-3-4b-it:free
