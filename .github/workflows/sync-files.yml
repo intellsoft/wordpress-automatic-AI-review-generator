@@ -7,24 +7,29 @@ on:
     paths:
       - "ai-desc.json"
       - "ai.txt"
+  schedule:
+    # هر هفته یکشنبه ساعت 01:00 شب UTC
+    - cron: '0 1 * * 0'
 
 jobs:
   sync-files:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) دریافت سورس ریپو فعلی
       - name: Checkout source repository
         uses: actions/checkout@v4
 
-      # 2) ساخت پوشه خروجی و کپی فایل‌ها
+      - name: Trigger PHP updater
+        run: |
+          curl -s https://www.intellsoft.ir/update/review/get_free_models.php
+          sleep 240
+          
       - name: Prepare files to sync
         run: |
           mkdir sync-output
           cp ai-desc.json sync-output/
           cp ai.txt sync-output/
 
-      # 3) Push به ریپوی مقصد
       - name: Push selected files to target repo
         uses: cpina/github-action-push-to-another-repository@main
         env:
@@ -35,4 +40,3 @@ jobs:
           destination-repository-name: 'openrouter-free-ai-model-auto-update'
           user-email: '${{ github.actor }}@users.noreply.github.com'
           target-branch: main
-          # commit-message: optional if you want a custom message
