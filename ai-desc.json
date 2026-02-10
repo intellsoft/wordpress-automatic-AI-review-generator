@@ -1,130 +1,31 @@
-[
-    {
-        "id": "arcee-ai\/trinity-large-preview:free",
-        "description": "مدل زبان بزرگ با قابلیت‌های پیشرفته برای پردازش زبان طبیعی"
-    },
-    {
-        "id": "upstage\/solar-pro-3:free",
-        "description": "مدل پیشرفته برای درک و تولید متن با دقت بالا"
-    },
-    {
-        "id": "liquid\/lfm-2.5-1.2b-thinking:free",
-        "description": "مدل کوچک با قابلیت تفکر و استدلال"
-    },
-    {
-        "id": "liquid\/lfm-2.5-1.2b-instruct:free",
-        "description": "مدل کوچک برای پیروی از دستورالعمل‌ها"
-    },
-    {
-        "id": "allenai\/molmo-2-8b:free",
-        "description": "مدل چندوجهی با قابلیت پردازش متن و تصویر"
-    },
-    {
-        "id": "nvidia\/nemotron-3-nano-30b-a3b:free",
-        "description": "مدل بزرگ با قابلیت‌های پیشرفته برای تولید متن"
-    },
-    {
-        "id": "arcee-ai\/trinity-mini:free",
-        "description": "نسخه کوچک مدل تریتی با قابلیت‌های پایه"
-    },
-    {
-        "id": "tngtech\/tng-r1t-chimera:free",
-        "description": "مدل ترکیبی با قابلیت‌های متنوع پردازش زبان"
-    },
-    {
-        "id": "nvidia\/nemotron-nano-12b-v2-vl:free",
-        "description": "مدل چندوجهی با قابلیت پردازش متن و تصویر"
-    },
-    {
-        "id": "qwen\/qwen3-next-80b-a3b-instruct:free",
-        "description": "مدل بزرگ با قابلیت‌های پیشرفته برای پیروی از دستورالعمل‌ها"
-    },
-    {
-        "id": "nvidia\/nemotron-nano-9b-v2:free",
-        "description": "مدل کوچک با قابلیت‌های پایه برای پردازش زبان"
-    },
-    {
-        "id": "openai\/gpt-oss-120b:free",
-        "description": "مدل متن باز با اندازه 120 میلیارد پارامتر"
-    },
-    {
-        "id": "openai\/gpt-oss-20b:free",
-        "description": "مدل متن باز با اندازه 20 میلیارد پارامتر"
-    },
-    {
-        "id": "z-ai\/glm-4.5-air:free",
-        "description": "مدل GLM با قابلیت‌های پیشرفته برای پردازش زبان"
-    },
-    {
-        "id": "qwen\/qwen3-coder:free",
-        "description": "مدل تخصصی برای برنامه‌نویسی و کدنویسی"
-    },
-    {
-        "id": "moonshotai\/kimi-k2:free",
-        "description": "مدل با قابلیت‌های پیشرفته برای پردازش زبان چینی"
-    },
-    {
-        "id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
-        "description": "نسخه ونیزی مدل دلفین-مISTRAL با 24 میلیارد پارامتر"
-    },
-    {
-        "id": "google\/gemma-3n-e2b-it:free",
-        "description": "مدل گما با قابلیت‌های پایه برای پردازش زبان"
-    },
-    {
-        "id": "tngtech\/deepseek-r1t2-chimera:free",
-        "description": "مدل ترکیبی با قابلیت‌های پیشرفته برای پردازش زبان"
-    },
-    {
-        "id": "deepseek\/deepseek-r1-0528:free",
-        "description": "مدل دیپسیک با قابلیت‌های پیشرفته برای پردازش زبان"
-    },
-    {
-        "id": "google\/gemma-3n-e4b-it:free",
-        "description": "مدل گما با قابلیت‌های پیشرفته برای پردازش زبان"
-    },
-    {
-        "id": "qwen\/qwen3-4b:free",
-        "description": "کوچکترین مدل خانواده کون با 4 میلیارد پارامتر"
-    },
-    {
-        "id": "tngtech\/deepseek-r1t-chimera:free",
-        "description": "مدل ترکیبی با قابلیت‌های پایه برای پردازش زبان"
-    },
-    {
-        "id": "mistralai\/mistral-small-3.1-24b-instruct:free",
-        "description": "مدل میستال کوچک با قابلیت‌های پیشرفته برای پیروی از دستورالعمل‌ها"
-    },
-    {
-        "id": "google\/gemma-3-4b-it:free",
-        "description": "مدل گما با 4 میلیارد پارامتر و قابلیت‌های پایه"
-    },
-    {
-        "id": "google\/gemma-3-12b-it:free",
-        "description": "مدل گما با 12 میلیارد پارامتر و قابلیت‌های پیشرفته"
-    },
-    {
-        "id": "google\/gemma-3-27b-it:free",
-        "description": "مدل گما با 27 میلیارد پارامتر و قابلیت‌های بسیار پیشرفته"
-    },
-    {
-        "id": "meta-llama\/llama-3.3-70b-instruct:free",
-        "description": "مدل llama بزرگ با 70 میلیارد پارامتر و قابلیت‌های پیشرفته"
-    },
-    {
-        "id": "meta-llama\/llama-3.2-3b-instruct:free",
-        "description": "مدل llama کوچک با 3 میلیارد پارامتر و قابلیت‌های پایه"
-    },
-    {
-        "id": "qwen\/qwen-2.5-vl-7b-instruct:free",
-        "description": "مدل چندوجهی کون با قابلیت پردازش متن و تصویر"
-    },
-    {
-        "id": "nousresearch\/hermes-3-llama-3.1-405b:free",
-        "description": "مدل هرمس با 405 میلیارد پارامتر و قابلیت‌های بسیار پیشرفته"
-    },
-    {
-        "id": "meta-llama\/llama-3.1-405b-instruct:free",
-        "description": "مدل llama بسیار بزرگ با 405 میلیارد پارامتر و قابلیت‌های پیشرفته"
-    }
-]
+{
+    "arcee-ai\/trinity-large-preview:free": "مدل پیشرفته با قابلیت درک و تولید متن با کیفیت بالا",
+    "arcee-ai\/trinity-mini:free": "مدل سبک و سریع مناسب برای کاربردهای با منابع محدود",
+    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "مدل مبتنی بر Mistral با قابلیت‌های بهبودیافته",
+    "deepseek\/deepseek-r1-0528:free": "مدل پیشرفته با قابلیت درک و تولید متن با کیفیت بالا",
+    "google\/gemma-3-12b-it:free": "مدل متوسط با قابلیت درک و تولید متن با دقت بالا",
+    "google\/gemma-3-27b-it:free": "مدل بزرگ با قابلیت درک و تولید متن با دقت بالا",
+    "google\/gemma-3-4b-it:free": "مدل کوچک با قابلیت درک و تولید متن با دقت بالا",
+    "google\/gemma-3n-e2b-it:free": "مدل کوچک با قابلیت درک و تولید متن با دقت بالا",
+    "google\/gemma-3n-e4b-it:free": "مدل متوسط با قابلیت درک و تولید متن با دقت بالا",
+    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل کوچک با قابلیت دنبال کردن دستورالعمل‌ها به دقت",
+    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل کوچک با قابلیت تفکر عمیق و تحلیل مسائل پیچیده",
+    "meta-llama\/llama-3.2-3b-instruct:free": "مدل کوچک با قابلیت دنبال کردن دستورالعمل‌ها با دقت بالا",
+    "meta-llama\/llama-3.3-70b-instruct:free": "مدل بزرگ با قابلیت دنبال کردن دستورالعمل‌ها با دقت بالا",
+    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل متوسط با قابلیت دنبال کردن دستورالعمل‌ها با دقت بالا",
+    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل بسیار بزرگ با قابلیت‌های پیشرفته در پردازش زبان طبیعی",
+    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل بزرگ با قابلیت تولید متن با کیفیت بالا و متنوع",
+    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل با قابلیت پردازش تصویر و متن به صورت یکپارچه",
+    "nvidia\/nemotron-nano-9b-v2:free": "مدل سبک با قابلیت پردازش متن با کارایی بالا",
+    "openai\/gpt-oss-120b:free": "مدل متن باز با اندازه بزرگ و قابلیت تولید متن با کیفیت بالا",
+    "openai\/gpt-oss-20b:free": "مدل متن باز با اندازه متوسط و مناسب برای کاربردهای متنوع",
+    "qwen\/qwen3-4b:free": "مدل کوچک با قابلیت پردازش متن با کارایی بالا",
+    "qwen\/qwen3-coder:free": "مدل تخصصی برای برنامه‌نویسی و کدنویسی",
+    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل بزرگ با قابلیت دنبال کردن دستورالعمل‌ها با دقت بالا",
+    "stepfun\/step-3.5-flash:free": "مدل زبان بزرگ با قابلیت پاسخگویی سریع و مناسب برای کاربردهای عمومی",
+    "tngtech\/deepseek-r1t-chimera:free": "مدل ترکیبی با قابلیت‌های متنوع در پردازش زبان طبیعی",
+    "tngtech\/deepseek-r1t2-chimera:free": "مدل ترکیبی با قابلیت‌های پیشرفته در پردازش زبان طبیعی",
+    "tngtech\/tng-r1t-chimera:free": "مدل ترکیبی با قابلیت‌های متنوع در پردازش زبان طبیعی",
+    "upstage\/solar-pro-3:free": "مدل پیشرفته با تمرکز بر درک و تولید متن با دقت بالا",
+    "z-ai\/glm-4.5-air:free": "مدل سبک با قابلیت پردازش متن با کارایی بالا"
+}
