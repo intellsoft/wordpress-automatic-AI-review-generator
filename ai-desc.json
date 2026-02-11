@@ -1,31 +1,118 @@
-{
-    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایی بزرگ مدل تریتیتی با قابلیت‌های پیشرفته",
-    "arcee-ai\/trinity-mini:free": "نسخه کوچک مدل تریتیتی با کارایی بهینه",
-    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیز مدل دلفین-مISTRAL با 24 میلیارد پارامتر",
-    "deepseek\/deepseek-r1-0528:free": "مدل DeepSeek R1 با تاریخچه به‌روزرسانی 0528",
-    "google\/gemma-3-12b-it:free": "مدل Gemma گوگل نسخه 3 با 12 میلیارد پارامتر",
-    "google\/gemma-3-27b-it:free": "مدل Gemma گوگل نسخه 3 با 27 میلیارد پارامتر",
-    "google\/gemma-3-4b-it:free": "مدل Gemma گوگل نسخه 3 با 4 میلیارد پارامتر",
-    "google\/gemma-3n-e2b-it:free": "مدل Gemma گوگل با قابلیت‌های بهبودیافته",
-    "google\/gemma-3n-e4b-it:free": "مدل Gemma گوگل با قابلیت‌های بهبودیافته نسخه e4b",
-    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل دستورالعملی با حجم 1.2 میلیارد پارامتر",
-    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل مبتنی بر تفکر با حجم 1.2 میلیارد پارامتر",
-    "meta-llama\/llama-3.2-3b-instruct:free": "مدل دستورالعملی Llama متا نسخه 3.2 با 3 میلیارد پارامتر",
-    "meta-llama\/llama-3.3-70b-instruct:free": "مدل دستورالعملی Llama متا نسخه 3.3 با 70 میلیارد پارامتر",
-    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل دستورالعملی Mistral کوچک نسخه 3.1 با 24 میلیارد پارامتر",
-    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل Hermes 3 مبتنی بر Llama با 405 میلیارد پارامتر",
-    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل Nemotron 3 نانو با 30 میلیارد پارامتر",
-    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل Nemotron نانو نسخه 2 با قابلیت پردازش تصویر",
-    "nvidia\/nemotron-nano-9b-v2:free": "مدل Nemotron نانو نسخه 2 با 9 میلیارد پارامتر",
-    "openai\/gpt-oss-120b:free": "مدل GPT متن باز با 120 میلیارد پارامتر",
-    "openai\/gpt-oss-20b:free": "مدل GPT متن باز با 20 میلیارد پارامتر",
-    "qwen\/qwen3-4b:free": "مدل Qwen 3 با 4 میلیارد پارامتر",
-    "qwen\/qwen3-coder:free": "مدل Qwen 3 مخصوص برنامه‌نویسی و کدنویسی",
-    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل دستورالعملی Qwen 3 با 80 میلیارد پارامتر",
-    "stepfun\/step-3.5-flash:free": "مدل هوش مصنوعی با قابلیت پردازش سریع و پاسخگویی به سوالات",
-    "tngtech\/deepseek-r1t-chimera:free": "مدل ترکیبی DeepSeek R1T با قابلیت‌های پردازشی پیشرفته",
-    "tngtech\/deepseek-r1t2-chimera:free": "مدل ترکیبی DeepSeek R1T2 با قابلیت‌های پردازشی پیشرفته",
-    "tngtech\/tng-r1t-chimera:free": "مدل ترکیبی R1T با قابلیت‌های پردازشی پیشرفته",
-    "upstage\/solar-pro-3:free": "مدل سولار پرو نسخه 3 با عملکرد بالا در پردازش زبان طبیعی",
-    "z-ai\/glm-4.5-air:free": "مدل GLM نسخه 4.5 با قابلیت‌های سبک و سریع"
-}
+[
+    {
+        "model_id": "stepfun\/step-3.5-flash:free",
+        "description": "مدل سریع و کارآمد برای وظایف پردازش زبان طبیعی با دقت بالا"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-large-preview:free",
+        "description": "مدل بزرگ پیش‌نمایشی با توانایی‌های پیشرفته در درک و تولید متن"
+    },
+    {
+        "model_id": "upstage\/solar-pro-3:free",
+        "description": "مدل پیشرفته با تمرکز بر درک عمیق و تولید متن با کیفیت بالا"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-thinking:free",
+        "description": "مدل کوچک با قابلیت تفکر و استدلال برای حل مسائل پیچیده"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-instruct:free",
+        "description": "مدل کوچک و کارآمد برای پیروی دقیق از دستورالعمل‌ها"
+    },
+    {
+        "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+        "description": "مدل بزرگ با قابلیت تولید متن با کیفیت بالا و دقت بالا"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-mini:free",
+        "description": "نسخه کوچک‌تر مدل تریتینی با سرعت و کارایی بالا"
+    },
+    {
+        "model_id": "tngtech\/tng-r1t-chimera:free",
+        "description": "مدل ترکیبی با توانایی‌های متنوع در پردازش زبان طبیعی"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+        "description": "مدل چندوجهی با قابلیت پردازش متن و تصویر با دقت بالا"
+    },
+    {
+        "model_id": "qwen\/qwen3-next-80b-a3b-instruct:free",
+        "description": "مدل بزرگ با توانایی‌های پیشرفته در پیروی از دستورالعمل‌ها"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-9b-v2:free",
+        "description": "مدل کوچک با کارایی بالا برای وظایف پردازش زبان طبیعی"
+    },
+    {
+        "model_id": "openai\/gpt-oss-120b:free",
+        "description": "مدل متن‌باز بزرگ با توانایی‌های گسترده در تولید متن"
+    },
+    {
+        "model_id": "openai\/gpt-oss-20b:free",
+        "description": "مدل متن‌باز با اندازه متوسط برای وظایف متنوع پردازش زبان"
+    },
+    {
+        "model_id": "z-ai\/glm-4.5-air:free",
+        "description": "مدل سبک و کارآمد با تمرکز بر سرعت و دقت در پردازش زبان"
+    },
+    {
+        "model_id": "qwen\/qwen3-coder:free",
+        "description": "مدل تخصصی برای برنامه‌نویسی و تولید کد با دقت بالا"
+    },
+    {
+        "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+        "description": "نسخه ونیزی مدل دلفین با قابلیت‌های پیشرفته در پردازش زبان"
+    },
+    {
+        "model_id": "google\/gemma-3n-e2b-it:free",
+        "description": "مدل گما با قابلیت درک و تولید متن با کیفیت بالا"
+    },
+    {
+        "model_id": "tngtech\/deepseek-r1t2-chimera:free",
+        "description": "مدل ترکیبی با قابلیت‌های پیشرفته در استدلال و تولید متن"
+    },
+    {
+        "model_id": "deepseek\/deepseek-r1-0528:free",
+        "description": "مدل دیپسیک با قابلیت‌های پیشرفته در درک و تولید متن"
+    },
+    {
+        "model_id": "google\/gemma-3n-e4b-it:free",
+        "description": "نسخه پیشرفته مدل گما با قابلیت‌های بهبودیافته"
+    },
+    {
+        "model_id": "qwen\/qwen3-4b:free",
+        "description": "مدل کوچک با کارایی بالا برای وظایف پردازش زبان طبیعی"
+    },
+    {
+        "model_id": "tngtech\/deepseek-r1t-chimera:free",
+        "description": "مدل ترکیبی دیپسیک با قابلیت‌های متنوع در پردازش زبان"
+    },
+    {
+        "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+        "description": "مدل میستال کوچک با قابلیت‌های پیشرفته در پیروی از دستورالعمل‌ها"
+    },
+    {
+        "model_id": "google\/gemma-3-4b-it:free",
+        "description": "مدل گما با اندازه کوچک و کارایی بالا"
+    },
+    {
+        "model_id": "google\/gemma-3-12b-it:free",
+        "description": "مدل گما با اندازه متوسط و قابلیت‌های متنوع"
+    },
+    {
+        "model_id": "google\/gemma-3-27b-it:free",
+        "description": "مدل گما با اندازه بزرگ و توانایی‌های پیشرفته"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
+        "description": "مدل لاما بزرگ با قابلیت‌های پیشرفته در پیروی از دستورالعمل‌ها"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
+        "description": "مدل لاما کوچک با کارایی بالا برای وظایف متنوع"
+    },
+    {
+        "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+        "description": "مدل بزرگ هرمس با قابلیت‌های پیشرفته در تولید متن"
+    }
+]
