@@ -1,31 +1,118 @@
-{
-    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایی از مدل Trinity با ظرفیت پردازش بالا",
-    "arcee-ai\/trinity-mini:free": "نسخه کوچک‌تر مدل Trinity با کارایی بهینه",
-    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیزی مدل Dolphin-Mistral با 24 میلیارد پارامتر",
-    "deepseek\/deepseek-r1-0528:free": "مدل Deepseek با تاریخچه به‌روزرسانی 0528",
-    "google\/gemma-3-12b-it:free": "مدل Gemma گوگل با اندازه 12 میلیارد پارامتر",
-    "google\/gemma-3-27b-it:free": "مدل Gemma گوگل با اندازه 27 میلیارد پارامتر",
-    "google\/gemma-3-4b-it:free": "مدل Gemma گوگل با اندازه 4 میلیارد پارامتر",
-    "google\/gemma-3n-e2b-it:free": "مدل Gemma گوگل با قابلیت درک و تولید متن",
-    "google\/gemma-3n-e4b-it:free": "مدل Gemma گوگل با قابلیت درک و تولید متن",
-    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل LFM با قابلیت پیروی از دستورالعمل‌ها",
-    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل LFM با قابلیت تفکر و استدلال",
-    "meta-llama\/llama-3.2-3b-instruct:free": "مدل Llama نسخه 3.2 با 3 میلیارد پارامتر و قابلیت دستورالعمل",
-    "meta-llama\/llama-3.3-70b-instruct:free": "مدل Llama نسخه 3.3 با 70 میلیارد پارامتر و قابلیت دستورالعمل",
-    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل Mistral کوچک با قابلیت دستورالعمل",
-    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل Hermes مبتنی بر Llama با 405 میلیارد پارامتر",
-    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل Nemerton با اندازه 30 میلیارد پارامتر",
-    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل Nemerton با قابلیت پردازش تصویر و متن",
-    "nvidia\/nemotron-nano-9b-v2:free": "مدل Nemerton با اندازه 9 میلیارد پارامتر",
-    "openai\/gpt-oss-120b:free": "مدل GPT متن‌باز با 120 میلیارد پارامتر",
-    "openai\/gpt-oss-20b:free": "مدل GPT متن‌باز با 20 میلیارد پارامتر",
-    "qwen\/qwen3-4b:free": "مدل Qwen نسخه 4 میلیارد پارامتری",
-    "qwen\/qwen3-coder:free": "مدل Qwen مخصوص برنامه‌نویسی و کدنویسی",
-    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل Qwen نسخه 80 میلیارد پارامتری با قابلیت دستورالعمل",
-    "stepfun\/step-3.5-flash:free": "مدل زبان بزرگ با قابلیت پردازش سریع و پاسخگویی به درخواست‌های مختلف",
-    "tngtech\/deepseek-r1t-chimera:free": "مدل ترکیبی Deepseek با قابلیت‌های پیشرفته",
-    "tngtech\/deepseek-r1t2-chimera:free": "مدل ترکیبی Deepseek با قابلیت‌های پیشرفته",
-    "tngtech\/tng-r1t-chimera:free": "مدل ترکیبی TNG با قابلیت‌های چندمنظوره",
-    "upstage\/solar-pro-3:free": "مدل SOLAR نسخه حرفه‌ای با قابلیت‌های پیشرفته",
-    "z-ai\/glm-4.5-air:free": "مدل GLM نسخه سبک و سریع"
-}
+[
+    {
+        "model_id": "stepfun\/step-3.5-flash:free",
+        "description": "مدل زبان بزرگ با قابلیت پاسخگویی سریع"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-large-preview:free",
+        "description": "نسخه پیش‌نمایی مدل زبان بزرگ Trinity با عملکرد بالا"
+    },
+    {
+        "model_id": "upstage\/solar-pro-3:free",
+        "description": "مدل SOLAR با قابلیت‌های پیشرفته پردازش زبان طبیعی"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-thinking:free",
+        "description": "مدل LFM با قابلیت تفکر عمیق و تحلیل"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-instruct:free",
+        "description": "مدل LFM بهینه‌شده برای دستورالعمل‌ها و راهنمایی"
+    },
+    {
+        "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+        "description": "مدل Nemotron با اندازه 30 میلیارد پارامتر"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-mini:free",
+        "description": "نسخه کوچک‌تر مدل Trinity با عملکرد سبک"
+    },
+    {
+        "model_id": "tngtech\/tng-r1t-chimera:free",
+        "description": "مدل ترکیبی TNG-R1T با قابلیت‌های چندوجهی"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+        "description": "مدل Nemotron با قابلیت‌های بینایی و زبانی"
+    },
+    {
+        "model_id": "qwen\/qwen3-next-80b-a3b-instruct:free",
+        "description": "مدل Qwen با 80 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-9b-v2:free",
+        "description": "نسخه سبک‌تر مدل Nemotron با 9 میلیارد پارامتر"
+    },
+    {
+        "model_id": "openai\/gpt-oss-120b:free",
+        "description": "مدل GPT متن‌باز با 120 میلیارد پارامتر"
+    },
+    {
+        "model_id": "openai\/gpt-oss-20b:free",
+        "description": "مدل GPT متن‌باز با 20 میلیارد پارامتر"
+    },
+    {
+        "model_id": "z-ai\/glm-4.5-air:free",
+        "description": "مدل GLM با قابلیت‌های سبک و سریع"
+    },
+    {
+        "model_id": "qwen\/qwen3-coder:free",
+        "description": "نسخه برنامه‌نویسی شده مدل Qwen"
+    },
+    {
+        "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+        "description": "نسخه ونیزی مدل Dolphin-Mistral با 24 میلیارد پارامتر"
+    },
+    {
+        "model_id": "google\/gemma-3n-e2b-it:free",
+        "description": "مدل Gemma با قابلیت‌های بهبودیافته و اندازه 2 میلیارد پارامتر"
+    },
+    {
+        "model_id": "tngtech\/deepseek-r1t2-chimera:free",
+        "description": "مدل ترکیبی DeepSeek-R1T2 با قابلیت‌های پیشرفته"
+    },
+    {
+        "model_id": "deepseek\/deepseek-r1-0528:free",
+        "description": "مدل DeepSeek با تاریخچه به‌روزرسانی 0528"
+    },
+    {
+        "model_id": "google\/gemma-3n-e4b-it:free",
+        "description": "مدل Gemma با قابلیت‌های بهبودیافته و اندازه 4 میلیارد پارامتر"
+    },
+    {
+        "model_id": "qwen\/qwen3-4b:free",
+        "description": "مدل Qwen با 4 میلیارد پارامتر"
+    },
+    {
+        "model_id": "tngtech\/deepseek-r1t-chimera:free",
+        "description": "مدل ترکیبی DeepSeek-R1T با قابلیت‌های پیشرفته"
+    },
+    {
+        "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+        "description": "مدل Mistral کوچک با 24 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "google\/gemma-3-4b-it:free",
+        "description": "مدل Gemma با 4 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "google\/gemma-3-12b-it:free",
+        "description": "مدل Gemma با 12 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "google\/gemma-3-27b-it:free",
+        "description": "مدل Gemma با 27 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
+        "description": "مدل Llama با 70 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
+        "description": "مدل Llama با 3 میلیارد پارامتر بهینه‌شده برای دستورالعمل‌ها"
+    },
+    {
+        "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+        "description": "مدل Hermes مبتنی بر Llama با 405 میلیارد پارامتر"
+    }
+]
