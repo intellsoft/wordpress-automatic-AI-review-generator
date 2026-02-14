@@ -1,106 +1,28 @@
-[
-    {
-        "model_id": "stepfun\/step-3.5-flash:free",
-        "description": "مدل سبک و سریع برای کاربردهای عمومی با پاسخدهی سریع"
-    },
-    {
-        "model_id": "arcee-ai\/trinity-large-preview:free",
-        "description": "نسخه پیش‌نمایی از مدل بزرگ Trinity با قابلیت‌های پیشرفته"
-    },
-    {
-        "model_id": "upstage\/solar-pro-3:free",
-        "description": "مدل پیشرفته با تمرکز بر درک و تولید متن با کیفیت بالا"
-    },
-    {
-        "model_id": "liquid\/lfm-2.5-1.2b-thinking:free",
-        "description": "مدل کوچک با قابلیت تفکر عمیق برای تحلیل مسائل پیچیده"
-    },
-    {
-        "model_id": "liquid\/lfm-2.5-1.2b-instruct:free",
-        "description": "مدل سبک با تمرکز بر دنبال دستورالعمل‌ها به دقت"
-    },
-    {
-        "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
-        "description": "مدل بزرگ با قابلیت تولید متن با کیفیت بالا و دقت بالا"
-    },
-    {
-        "model_id": "arcee-ai\/trinity-mini:free",
-        "description": "نسخه کوچک‌تر مدل Trinity با کارایی بهینه برای کاربردهای سبک"
-    },
-    {
-        "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
-        "description": "مدل چندوجهی با قابلیت پردازش متن و تصویر با اندازه متوسط"
-    },
-    {
-        "model_id": "qwen\/qwen3-next-80b-a3b-instruct:free",
-        "description": "مدل بسیار بزرگ با تمرکز بر دنبال دستورالعمل‌ها با دقت بالا"
-    },
-    {
-        "model_id": "nvidia\/nemotron-nano-9b-v2:free",
-        "description": "مدل سبک با قابلیت پردازش متن سریع و کارآمد"
-    },
-    {
-        "model_id": "openai\/gpt-oss-120b:free",
-        "description": "مدل متن‌باز بسیار بزرگ با قابلیت‌های پیشرفته درک و تولید متن"
-    },
-    {
-        "model_id": "openai\/gpt-oss-20b:free",
-        "description": "مدل متن‌باز با اندازه متوسط برای کاربردهای متنوع"
-    },
-    {
-        "model_id": "z-ai\/glm-4.5-air:free",
-        "description": "مدل سبک با تمرکز بر کارایی بالا و پاسخدهی سریع"
-    },
-    {
-        "model_id": "qwen\/qwen3-coder:free",
-        "description": "مدل تخصصی برای توسعه نرم‌افزار و تولید کد با کیفیت بالا"
-    },
-    {
-        "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
-        "description": "نسخه سفارشی‌سازی شده از Mistral با قابلیت‌های بهبودیافته"
-    },
-    {
-        "model_id": "google\/gemma-3n-e2b-it:free",
-        "description": "مدل کوچک با تمرکز بر درک و پاسخ به دستورالعمل‌ها"
-    },
-    {
-        "model_id": "deepseek\/deepseek-r1-0528:free",
-        "description": "مدل با قابلیت تفکر عمیق برای حل مسائل پیچیده"
-    },
-    {
-        "model_id": "google\/gemma-3n-e4b-it:free",
-        "description": "مدل متوسط با تمرکز بر درک و پاسخ به دستورالعمل‌ها"
-    },
-    {
-        "model_id": "qwen\/qwen3-4b:free",
-        "description": "مدل کوچک با کارایی بالا برای کاربردهای سبک"
-    },
-    {
-        "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
-        "description": "مدل متوسط با تمرکز بر دنبال دستورالعمل‌ها با دقت بالا"
-    },
-    {
-        "model_id": "google\/gemma-3-4b-it:free",
-        "description": "مدل کوچک با تمرکز بر درک و پاسخ به دستورالعمل‌ها"
-    },
-    {
-        "model_id": "google\/gemma-3-12b-it:free",
-        "description": "مدل متوسط با قابلیت‌های بهبودیافته در درک و تولید متن"
-    },
-    {
-        "model_id": "google\/gemma-3-27b-it:free",
-        "description": "مدل بزرگ با تمرکز بر درک و پاسخ به دستورالعمل‌ها"
-    },
-    {
-        "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
-        "description": "مدل بسیار بزرگ با قابلیت‌های پیشرفته در دنبال دستورالعمل‌ها"
-    },
-    {
-        "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
-        "description": "مدل کوچک با تمرکز بر دنبال دستورالعمل‌ها با کارایی بالا"
-    },
-    {
-        "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
-        "description": "مدل بسیار بزرگ با قابلیت‌های پیشرفته در درک و تولید متن"
-    }
-]
+{
+    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایی مدل بزرگ Trinity با قابلیت‌های پیشرفته",
+    "arcee-ai\/trinity-mini:free": "نسخه کوچک‌تر مدل Trinity با کارایی بهینه",
+    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیزی مدل Dolphin-Mistral با اندازه 24 میلیارد پارامتر",
+    "deepseek\/deepseek-r1-0528:free": "مدل Deepseek با نسخه R1 و تاریخ 0528",
+    "google\/gemma-3-12b-it:free": "مدل Gemma با اندازه 12 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری",
+    "google\/gemma-3-27b-it:free": "مدل Gemma با اندازه 27 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری",
+    "google\/gemma-3-4b-it:free": "مدل Gemma با اندازه 4 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری",
+    "google\/gemma-3n-e2b-it:free": "مدل Gemma با اندازه 2 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری",
+    "google\/gemma-3n-e4b-it:free": "مدل Gemma با اندازه 4 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری",
+    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل LFM با قابلیت دستورالعمل‌پذیری",
+    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل LFM با قابلیت تفکر و استدلال",
+    "meta-llama\/llama-3.2-3b-instruct:free": "مدل Llama با نسخه 3.2 و اندازه 3 میلیارد پارامتر",
+    "meta-llama\/llama-3.3-70b-instruct:free": "مدل Llama با نسخه 3.3 و اندازه 70 میلیارد پارامتر",
+    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل Mistral کوچک با نسخه 3.1 و اندازه 24 میلیارد پارامتر",
+    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل Hermes با نسخه 3 و پایه Llama 3.1 با اندازه 405 میلیارد پارامتر",
+    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل Nemotron 3 با اندازه 30 میلیارد پارامتر",
+    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل Nemotron با قابلیت بینایی و اندازه 12 میلیارد پارامتر",
+    "nvidia\/nemotron-nano-9b-v2:free": "مدل Nemotron با اندازه 9 میلیارد پارامتر",
+    "openai\/gpt-oss-120b:free": "مدل GPT با اندازه 120 میلیارد پارامتر و متن‌باز",
+    "openai\/gpt-oss-20b:free": "مدل GPT با اندازه 20 میلیارد پارامتر و متن‌باز",
+    "qwen\/qwen3-4b:free": "مدل Qwen 3 با اندازه 4 میلیارد پارامتر",
+    "qwen\/qwen3-coder:free": "مدل Qwen 3 مخصوص برنامه‌نویسی",
+    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل Qwen 3 با اندازه 80 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری",
+    "stepfun\/step-3.5-flash:free": "مدل زبان بزرگ با سرعت بالا و عملکرد عالی",
+    "upstage\/solar-pro-3:free": "مدل SOLAR Pro 3 با عملکرد بالا و قابلیت‌های متنوع",
+    "z-ai\/glm-4.5-air:free": "مدل GLM با نسخه 4.5 و سبک بودن"
+}
