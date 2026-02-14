@@ -1,106 +1,106 @@
 [
     {
-        "id": "stepfun\/step-3.5-flash:free",
-        "description": "مدل سریع و کارآمد برای وظایف عمومی پردازش زبان طبیعی"
+        "model_id": "stepfun\/step-3.5-flash:free",
+        "description": "مدل سبک و سریع برای کاربردهای عمومی"
     },
     {
-        "id": "arcee-ai\/trinity-large-preview:free",
-        "description": "نسخه پیش‌نمایی مدل بزرگ Trinity با قابلیت‌های پیشرفته"
+        "model_id": "arcee-ai\/trinity-large-preview:free",
+        "description": "نسخه پیش‌نمایش بزرگ مدل تریتی با قابلیت‌های پیشرفته"
     },
     {
-        "id": "upstage\/solar-pro-3:free",
-        "description": "مدل SOLAR با عملکرد بالا برای پردازش زبان طبیعی"
+        "model_id": "upstage\/solar-pro-3:free",
+        "description": "مدل حرفه‌ای با تمرکز بر درک و تولید متن"
     },
     {
-        "id": "liquid\/lfm-2.5-1.2b-thinking:free",
-        "description": "مدل کوچک با قابلیت تفکر عمیق برای استدلال پیچیده"
+        "model_id": "liquid\/lfm-2.5-1.2b-thinking:free",
+        "description": "مدل کوچک با قابلیت تفکر عمیق"
     },
     {
-        "id": "liquid\/lfm-2.5-1.2b-instruct:free",
-        "description": "مدل سبک برای اجرای دقیق دستورالعمل‌های کاربر"
+        "model_id": "liquid\/lfm-2.5-1.2b-instruct:free",
+        "description": "مدل کوچک با قابلیت دنبال کردن دستورالعمل‌ها"
     },
     {
-        "id": "nvidia\/nemotron-3-nano-30b-a3b:free",
-        "description": "مدل NVIDIA با اندازه متوسط برای تولید متن باکیفیت"
+        "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+        "description": "مدل بزرگ نVIDIA با قابلیت تولید متن باکیفیت"
     },
     {
-        "id": "arcee-ai\/trinity-mini:free",
-        "description": "نسخه سبک مدل Trinity برای کاربردهای سریع و کم‌حجم"
+        "model_id": "arcee-ai\/trinity-mini:free",
+        "description": "نسخه کوچک مدل تریتی برای کاربردهای سریع"
     },
     {
-        "id": "nvidia\/nemotron-nano-12b-v2-vl:free",
-        "description": "مدل چندوجهی NVIDIA برای پردازش همزمان تصویر و متن"
+        "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+        "description": "مدل نVIDIA با قابلیت پردازش تصویر"
     },
     {
-        "id": "qwen\/qwen3-next-80b-a3b-instruct:free",
-        "description": "مدل بزرگ Qwen با قابلیت دستورالعمل‌پذیری پیشرفته"
+        "model_id": "qwen\/qwen3-next-80b-a3b-instruct:free",
+        "description": "مدل بزرگ کیوین با قابلیت دنبال کردن دستورالعمل‌ها"
     },
     {
-        "id": "nvidia\/nemotron-nano-9b-v2:free",
-        "description": "مدل سبک NVIDIA برای کاربردهای سریع و کم‌مصرف"
+        "model_id": "nvidia\/nemotron-nano-9b-v2:free",
+        "description": "مدل کوچک نVIDIA برای کاربردهای سریع"
     },
     {
-        "id": "openai\/gpt-oss-120b:free",
-        "description": "مدل متن‌باز بزرگ OpenAI با 120 میلیارد پارامتر"
+        "model_id": "openai\/gpt-oss-120b:free",
+        "description": "مدل متن‌باز بزرگ با قدرت پردازشی بالا"
     },
     {
-        "id": "openai\/gpt-oss-20b:free",
-        "description": "مدل متن‌باز OpenAI با 20 میلیارد پارامتر"
+        "model_id": "openai\/gpt-oss-20b:free",
+        "description": "مدل متن‌باز با اندازه متوسط"
     },
     {
-        "id": "z-ai\/glm-4.5-air:free",
-        "description": "مدل سبک GLM برای کاربردهای سریع و کم‌مصرف"
+        "model_id": "z-ai\/glm-4.5-air:free",
+        "description": "مدل GLM سبک و سریع"
     },
     {
-        "id": "qwen\/qwen3-coder:free",
-        "description": "مدل Qwen مخصوص برنامه‌نویسی و تولید کد"
+        "model_id": "qwen\/qwen3-coder:free",
+        "description": "مدل تخصصی برای برنامه‌نویسی"
     },
     {
-        "id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
-        "description": "نسخه ونیزی مدل Dolphin-Mistral با قابلیت‌های بهبودیافته"
+        "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+        "description": " مدل مISTRAL با تنظیمات دلینفین"
     },
     {
-        "id": "google\/gemma-3n-e2b-it:free",
-        "description": "مدل Gemma گوگل با 2 میلیارد پارامتر و قابلیت دستورالعمل"
+        "model_id": "google\/gemma-3n-e2b-it:free",
+        "description": "مدل گوگل با قابلیت ترجمه انگلیسی به فارسی"
     },
     {
-        "id": "deepseek\/deepseek-r1-0528:free",
-        "description": "مدل DeepSeek با قابلیت استدلال قوی و تحلیل عمیق"
+        "model_id": "deepseek\/deepseek-r1-0528:free",
+        "description": "مدل دیپسیک با قابلیت استدلال قوی"
     },
     {
-        "id": "google\/gemma-3n-e4b-it:free",
-        "description": "مدل Gemma گوگل با 4 میلیارد پارامتر"
+        "model_id": "google\/gemma-3n-e4b-it:free",
+        "description": "مدل گوگل با قابلیت ترجمه انگلیسی به فارسی پیشرفته‌تر"
     },
     {
-        "id": "qwen\/qwen3-4b:free",
-        "description": "مدل کوچک Qwen با 4 میلیارد پارامتر"
+        "model_id": "qwen\/qwen3-4b:free",
+        "description": "مدل کوچک کیوین برای کاربردهای سریع"
     },
     {
-        "id": "mistralai\/mistral-small-3.1-24b-instruct:free",
-        "description": "مدل کوچک Mistral با قابلیت دستورالعمل"
+        "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+        "description": "مدل میستریال کوچک با قابلیت دنبال کردن دستورالعمل‌ها"
     },
     {
-        "id": "google\/gemma-3-4b-it:free",
-        "description": "مدل Gemma گوگل با 4 میلیارد پارامتر"
+        "model_id": "google\/gemma-3-4b-it:free",
+        "description": "مدل کوچک گوگل برای تعاملات"
     },
     {
-        "id": "google\/gemma-3-12b-it:free",
-        "description": "مدل Gemma گوگل با 12 میلیارد پارامتر"
+        "model_id": "google\/gemma-3-12b-it:free",
+        "description": "مدل متوسط گوگل برای تعاملات"
     },
     {
-        "id": "google\/gemma-3-27b-it:free",
-        "description": "مدل Gemma گوگل با 27 میلیارد پارامتر"
+        "model_id": "google\/gemma-3-27b-it:free",
+        "description": "مدل بزرگ گوگل برای تعاملات"
     },
     {
-        "id": "meta-llama\/llama-3.3-70b-instruct:free",
-        "description": "مدل بزرگ Llama 3.3 متا با قابلیت دستورالعمل"
+        "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
+        "description": "مدل بزرگ LLAMA با قابلیت دنبال کردن دستورالعمل‌ها"
     },
     {
-        "id": "meta-llama\/llama-3.2-3b-instruct:free",
-        "description": "مدل کوچک Llama 3.2 متا"
+        "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
+        "description": "مدل کوچک LLAMA برای کاربردهای سریع"
     },
     {
-        "id": "nousresearch\/hermes-3-llama-3.1-405b:free",
-        "description": "مدل بسیار بزرگ Hermes بر پایه Llama با 405 میلیارد پارامتر"
+        "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+        "description": "مدل بسیار بزرگ هرمز با قابلیت‌های پیشرفته"
     }
 ]
