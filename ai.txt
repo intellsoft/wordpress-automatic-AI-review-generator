@@ -5,7 +5,6 @@ liquid/lfm-2.5-1.2b-thinking:free
 liquid/lfm-2.5-1.2b-instruct:free
 nvidia/nemotron-3-nano-30b-a3b:free
 arcee-ai/trinity-mini:free
-tngtech/tng-r1t-chimera:free
 nvidia/nemotron-nano-12b-v2-vl:free
 qwen/qwen3-next-80b-a3b-instruct:free
 nvidia/nemotron-nano-9b-v2:free
@@ -15,11 +14,9 @@ z-ai/glm-4.5-air:free
 qwen/qwen3-coder:free
 cognitivecomputations/dolphin-mistral-24b-venice-edition:free
 google/gemma-3n-e2b-it:free
-tngtech/deepseek-r1t2-chimera:free
 deepseek/deepseek-r1-0528:free
 google/gemma-3n-e4b-it:free
 qwen/qwen3-4b:free
-tngtech/deepseek-r1t-chimera:free
 mistralai/mistral-small-3.1-24b-instruct:free
 google/gemma-3-4b-it:free
 google/gemma-3-12b-it:free
