@@ -1,31 +1,106 @@
-{
-    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایش بزرگ مدل تریتی با قابلیت‌های پیشرفته",
-    "arcee-ai\/trinity-mini:free": "نسخه کوچک مدل تریتی برای کاربردهای سبک",
-    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیز مدل دلفین-مISTRAL",
-    "deepseek\/deepseek-r1-0528:free": "مدل Deepseek با قابلیت‌های پیشرفته",
-    "google\/gemma-3-12b-it:free": "مدل Gemma با 12 میلیارد پارامتر و قابلیت IT",
-    "google\/gemma-3-27b-it:free": "مدل Gemma با 27 میلیارد پارامتر و قابلیت IT",
-    "google\/gemma-3-4b-it:free": "مدل Gemma با 4 میلیارد پارامتر و قابلیت IT",
-    "google\/gemma-3n-e2b-it:free": "مدل Gemma با 2 میلیارد پارامتر و قابلیت IT",
-    "google\/gemma-3n-e4b-it:free": "مدل Gemma با 4 میلیارد پارامتر و قابلیت IT",
-    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل کوچک برای دستورالعمل‌های دقیق",
-    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل کوچک با قابلیت تفکر عمیق",
-    "meta-llama\/llama-3.2-3b-instruct:free": "مدل کوچک Llama با قابلیت دستورالعمل",
-    "meta-llama\/llama-3.3-70b-instruct:free": "مدل بزرگ Llama با قابلیت دستورالعمل",
-    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل کوچک Mistral با قابلیت دستورالعمل",
-    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل بسیار بزرگ Hermes مبتنی بر Llama",
-    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل بزرگ Nemotron با قابلیت A3B",
-    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل Nemotron با قابلیت تصویر (VL)",
-    "nvidia\/nemotron-nano-9b-v2:free": "مدل کوچک Nemotron با عملکرد بهینه",
-    "openai\/gpt-oss-120b:free": "مدل متن‌باز بزرگ GPT با 120 میلیارد پارامتر",
-    "openai\/gpt-oss-20b:free": "مدل متن‌باز کوچک‌تر GPT با 20 میلیارد پارامتر",
-    "qwen\/qwen3-4b:free": "مدل کوچک Qwen با 4 میلیارد پارامتر",
-    "qwen\/qwen3-coder:free": "مدل Qwen مخصوص برنامه‌نویسی",
-    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل بزرگ Qwen با قابلیت A3B",
-    "stepfun\/step-3.5-flash:free": "مدل سریع و کارآمد برای کاربردهای عمومی",
-    "tngtech\/deepseek-r1t-chimera:free": "مدل ترکیبی Deepseek با قابلیت‌های چندوجهی",
-    "tngtech\/deepseek-r1t2-chimera:free": "نسخه بهبودیافته مدل Deepseek با قابلیت‌های ترکیبی",
-    "tngtech\/tng-r1t-chimera:free": "مدل ترکیبی با قابلیت‌های چندوجهی",
-    "upstage\/solar-pro-3:free": "مدل حرفه‌ای سری سولار با عملکرد بالا",
-    "z-ai\/glm-4.5-air:free": "مدل سبک GLM با قابلیت‌های پیشرفته"
-}
+[
+    {
+        "model_id": "stepfun\/step-3.5-flash:free",
+        "description": "مدل زبان پیشرفته با پاسخ‌دهی سریع برای کاربردهای مختلف"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-large-preview:free",
+        "description": "مدل زبان بزرگ برای پیش‌نمایش و کاربردهای پیشرفته"
+    },
+    {
+        "model_id": "upstage\/solar-pro-3:free",
+        "description": "مدل زبان حرفه‌ای با قابلیت‌های پردازش متن پیشرفته"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-thinking:free",
+        "description": "مدل کوچک با قابلیت تفکر عمیق برای تحلیل مسائل پیچیده"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-instruct:free",
+        "description": "مدل کوچک با قابلیت دنبال کردن دقیق دستورالعمل‌ها"
+    },
+    {
+        "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+        "description": "مدل زبان بزرگ با قابلیت‌های متنوع پردازش زبان طبیعی"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-mini:free",
+        "description": "نسخه کوچک‌تر و سبک‌تر مدل Trinity برای کاربردهای سبک"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+        "description": "مدل زبان با قابلیت درک و پردازش تصاویر"
+    },
+    {
+        "model_id": "qwen\/qwen3-next-80b-a3b-instruct:free",
+        "description": "مدل زبان بزرگ با قابلیت دنبال کردن دستورالعمل‌ها به زبان‌های مختلف"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-9b-v2:free",
+        "description": "مدل زبان سبک و کارآمد برای کاربردهای متنوع"
+    },
+    {
+        "model_id": "openai\/gpt-oss-120b:free",
+        "description": "مدل زبان متن‌باز بزرگ با قابلیت‌های پیشرفته تولید متن"
+    },
+    {
+        "model_id": "openai\/gpt-oss-20b:free",
+        "description": "مدل زبان متن‌باز با اندازه متوسط برای کاربردهای عمومی"
+    },
+    {
+        "model_id": "z-ai\/glm-4.5-air:free",
+        "description": "مدل زبان سبک و کارآمد با مصرف منابع کم"
+    },
+    {
+        "model_id": "qwen\/qwen3-coder:free",
+        "description": "مدل زبان تخصصی برای برنامه‌نویسی و کدنویسی"
+    },
+    {
+        "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+        "description": "نسخه سفارشی‌شده مدل Mistral برای کاربردهای خاص"
+    },
+    {
+        "model_id": "google\/gemma-3n-e2b-it:free",
+        "description": "مدل زبان کوچک برای تعاملات کاربرپسند"
+    },
+    {
+        "model_id": "deepseek\/deepseek-r1-0528:free",
+        "description": "مدل زبان پیشرفته با قابلیت‌های تحلیلی قوی"
+    },
+    {
+        "model_id": "google\/gemma-3n-e4b-it:free",
+        "description": "نسخه بزرگ‌تر مدل Gemma برای کاربردهای پیچیده‌تر"
+    },
+    {
+        "model_id": "qwen\/qwen3-4b:free",
+        "description": "مدل زبان کوچک با عملکرد خوب برای کاربردهای سبک"
+    },
+    {
+        "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+        "description": "مدل زبان با قابلیت دنبال کردن دستورالعمل‌ها به طور دقیق"
+    },
+    {
+        "model_id": "google\/gemma-3-4b-it:free",
+        "description": "مدل زبان کوچک برای کاربردهای تعاملی و آموزشی"
+    },
+    {
+        "model_id": "google\/gemma-3-12b-it:free",
+        "description": "مدل زبان با اندازه متوسط برای کاربردهای متنوع"
+    },
+    {
+        "model_id": "google\/gemma-3-27b-it:free",
+        "description": "مدل زبان بزرگ با قابلیت‌های پردازش متن پیشرفته"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
+        "description": "مدل زبان بزرگ با قابلیت دنبال کردن دستورالعمل‌ها به طور دقیق"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
+        "description": "مدل زبان کوچک با عملکرد خوب برای کاربردهای سبک"
+    },
+    {
+        "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+        "description": "مدل زبان بسیار بزرگ با قابلیت‌های پردازش متن پیشرفته"
+    }
+]
