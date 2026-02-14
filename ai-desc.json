@@ -1,28 +1,106 @@
-{
-    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایی بزرگ مدل تریتینی با قابلیت‌های پیشرفته پردازش زبان طبیعی",
-    "arcee-ai\/trinity-mini:free": "نسخه کوچک مدل تریتینی با قابلیت‌های پایه پردازش زبان طبیعی",
-    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیزی مدل دلفین با 24 میلیارد پارامتر",
-    "deepseek\/deepseek-r1-0528:free": "مدل دیپ‌سیک با قابلیت‌های پیشرفته تحلیل و پاسخگویی",
-    "google\/gemma-3-12b-it:free": "مدل جما با 12 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "google\/gemma-3-27b-it:free": "مدل جما با 27 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "google\/gemma-3-4b-it:free": "مدل جما با 4 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "google\/gemma-3n-e2b-it:free": "مدل جما با قابلیت درک و تولید متن به زبان انگلیسی",
-    "google\/gemma-3n-e4b-it:free": "مدل جما با قابلیت درک و تولید متن به زبان انگلیسی با ظرفیت بیشتر",
-    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل کوچک با قابلیت دنبال دستورالعمل‌ها و پاسخگویی به درخواست‌ها",
-    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل کوچک با قابلیت تفکر و تحلیل عمیق مسائل",
-    "meta-llama\/llama-3.2-3b-instruct:free": "مدل llama با 3 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "meta-llama\/llama-3.3-70b-instruct:free": "مدل llama با 70 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل کوچک با 24 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل هرمس با 405 میلیارد پارامتر بر پایه llama",
-    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل نانو با 30 میلیارد پارامتر از شرکت انویدیا با قابلیت پردازش متن",
-    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل نانو با 12 میلیارد پارامتر و قابلیت پردازش تصویر و متن",
-    "nvidia\/nemotron-nano-9b-v2:free": "مدل نانو با 9 میلیارد پارامتر از شرکت انویدیا",
-    "openai\/gpt-oss-120b:free": "مدل متن‌باز با 120 میلیارد پارامتر از شرکت اوپن‌ای",
-    "openai\/gpt-oss-20b:free": "مدل متن‌باز با 20 میلیارد پارامتر از شرکت اوپن‌ای",
-    "qwen\/qwen3-4b:free": "مدل کوچک با 4 میلیارد پارامتر از شرکت کوئن",
-    "qwen\/qwen3-coder:free": "مدل کدنویس پیشرفته با قابلیت تولید و تحلیل کد",
-    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل پیشرفته با 80 میلیارد پارامتر و قابلیت دنبال دستورالعمل‌ها",
-    "stepfun\/step-3.5-flash:free": "مدل هوش مصنوعی با قابلیت پردازش سریع و پاسخگویی به درخواست‌های مختلف",
-    "upstage\/solar-pro-3:free": "مدل پیشرفته سولار با قابلیت‌های پردازش زبان طبیعی و درک متن",
-    "z-ai\/glm-4.5-air:free": "مدل GLM نسخه 4.5 با قابلیت‌های سبک و سریع"
-}
+[
+    {
+        "id": "stepfun\/step-3.5-flash:free",
+        "description": "مدل سریع و کارآمد برای وظایف عمومی پردازش زبان طبیعی"
+    },
+    {
+        "id": "arcee-ai\/trinity-large-preview:free",
+        "description": "نسخه پیش‌نمایی مدل بزرگ Trinity با قابلیت‌های پیشرفته"
+    },
+    {
+        "id": "upstage\/solar-pro-3:free",
+        "description": "مدل SOLAR با عملکرد بالا برای پردازش زبان طبیعی"
+    },
+    {
+        "id": "liquid\/lfm-2.5-1.2b-thinking:free",
+        "description": "مدل کوچک با قابلیت تفکر عمیق برای استدلال پیچیده"
+    },
+    {
+        "id": "liquid\/lfm-2.5-1.2b-instruct:free",
+        "description": "مدل سبک برای اجرای دقیق دستورالعمل‌های کاربر"
+    },
+    {
+        "id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+        "description": "مدل NVIDIA با اندازه متوسط برای تولید متن باکیفیت"
+    },
+    {
+        "id": "arcee-ai\/trinity-mini:free",
+        "description": "نسخه سبک مدل Trinity برای کاربردهای سریع و کم‌حجم"
+    },
+    {
+        "id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+        "description": "مدل چندوجهی NVIDIA برای پردازش همزمان تصویر و متن"
+    },
+    {
+        "id": "qwen\/qwen3-next-80b-a3b-instruct:free",
+        "description": "مدل بزرگ Qwen با قابلیت دستورالعمل‌پذیری پیشرفته"
+    },
+    {
+        "id": "nvidia\/nemotron-nano-9b-v2:free",
+        "description": "مدل سبک NVIDIA برای کاربردهای سریع و کم‌مصرف"
+    },
+    {
+        "id": "openai\/gpt-oss-120b:free",
+        "description": "مدل متن‌باز بزرگ OpenAI با 120 میلیارد پارامتر"
+    },
+    {
+        "id": "openai\/gpt-oss-20b:free",
+        "description": "مدل متن‌باز OpenAI با 20 میلیارد پارامتر"
+    },
+    {
+        "id": "z-ai\/glm-4.5-air:free",
+        "description": "مدل سبک GLM برای کاربردهای سریع و کم‌مصرف"
+    },
+    {
+        "id": "qwen\/qwen3-coder:free",
+        "description": "مدل Qwen مخصوص برنامه‌نویسی و تولید کد"
+    },
+    {
+        "id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+        "description": "نسخه ونیزی مدل Dolphin-Mistral با قابلیت‌های بهبودیافته"
+    },
+    {
+        "id": "google\/gemma-3n-e2b-it:free",
+        "description": "مدل Gemma گوگل با 2 میلیارد پارامتر و قابلیت دستورالعمل"
+    },
+    {
+        "id": "deepseek\/deepseek-r1-0528:free",
+        "description": "مدل DeepSeek با قابلیت استدلال قوی و تحلیل عمیق"
+    },
+    {
+        "id": "google\/gemma-3n-e4b-it:free",
+        "description": "مدل Gemma گوگل با 4 میلیارد پارامتر"
+    },
+    {
+        "id": "qwen\/qwen3-4b:free",
+        "description": "مدل کوچک Qwen با 4 میلیارد پارامتر"
+    },
+    {
+        "id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+        "description": "مدل کوچک Mistral با قابلیت دستورالعمل"
+    },
+    {
+        "id": "google\/gemma-3-4b-it:free",
+        "description": "مدل Gemma گوگل با 4 میلیارد پارامتر"
+    },
+    {
+        "id": "google\/gemma-3-12b-it:free",
+        "description": "مدل Gemma گوگل با 12 میلیارد پارامتر"
+    },
+    {
+        "id": "google\/gemma-3-27b-it:free",
+        "description": "مدل Gemma گوگل با 27 میلیارد پارامتر"
+    },
+    {
+        "id": "meta-llama\/llama-3.3-70b-instruct:free",
+        "description": "مدل بزرگ Llama 3.3 متا با قابلیت دستورالعمل"
+    },
+    {
+        "id": "meta-llama\/llama-3.2-3b-instruct:free",
+        "description": "مدل کوچک Llama 3.2 متا"
+    },
+    {
+        "id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+        "description": "مدل بسیار بزرگ Hermes بر پایه Llama با 405 میلیارد پارامتر"
+    }
+]
