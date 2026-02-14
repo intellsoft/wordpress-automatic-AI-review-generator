@@ -1,0 +1,56 @@
+name: Update README when ai.txt changes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ai.txt
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Read ai.txt
+        id: readfile
+        run: |
+          CONTENT=$(cat ai.txt | sed 's/`/\\`/g')
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          echo "$CONTENT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          # حذف نسخه قبلی بین مارکرها
+          sed -i '/<!-- AI-TEXT-START -->/,/<!-- AI-TEXT-END -->/d' README.md
+
+          # افزودن محتوای جدید
+          cat <<EOF >> README.md
+
+<!-- AI-TEXT-START -->
+## 🤖 محتوای فایل ai.txt
+
+\`\`\`
+${{ steps.readfile.outputs.content }}
+\`\`\`
+<!-- AI-TEXT-END -->
+EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # اگر تغییری نبود، commit نکن
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "Auto update README from ai.txt"
+          git push
