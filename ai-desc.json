@@ -1,106 +1,28 @@
-[
-    {
-        "id": "stepfun\/step-3.5-flash:free",
-        "description": "مدل زبان پیشرفته با سرعت بالا برای کاربردهای عمومی"
-    },
-    {
-        "id": "arcee-ai\/trinity-large-preview:free",
-        "description": "نسخه پیش‌نمایی از مدل Trinity بزرگ با قابلیت‌های پیشرفته"
-    },
-    {
-        "id": "upstage\/solar-pro-3:free",
-        "description": "مدل SOLAR Pro نسخه 3 با عملکرد بالا برای کاربردهای متنوع"
-    },
-    {
-        "id": "liquid\/lfm-2.5-1.2b-thinking:free",
-        "description": "مدل LFM با قابلیت تفکر عمیق و حجم 1.2 میلیارد پارامتر"
-    },
-    {
-        "id": "liquid\/lfm-2.5-1.2b-instruct:free",
-        "description": "مدل LFM برای دستورالعمل‌ها با حجم 1.2 میلیارد پارامتر"
-    },
-    {
-        "id": "nvidia\/nemotron-3-nano-30b-a3b:free",
-        "description": "مدل Nemotron 3 Nano با 30 میلیارد پارامتر از NVIDIA"
-    },
-    {
-        "id": "arcee-ai\/trinity-mini:free",
-        "description": "نسخه کوچک‌تر مدل Trinity با کارایی بهینه"
-    },
-    {
-        "id": "nvidia\/nemotron-nano-12b-v2-vl:free",
-        "description": "مدل Nemotron Nano نسخه 2 با قابلیت بینایی و 12 میلیارد پارامتر"
-    },
-    {
-        "id": "qwen\/qwen3-next-80b-a3b-instruct:free",
-        "description": "مدل Qwen 3 با 80 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "nvidia\/nemotron-nano-9b-v2:free",
-        "description": "مدل Nemotron Nano نسخه 2 با 9 میلیارد پارامتر"
-    },
-    {
-        "id": "openai\/gpt-oss-120b:free",
-        "description": "مدل GPT متن‌باز با 120 میلیارد پارامتر از OpenAI"
-    },
-    {
-        "id": "openai\/gpt-oss-20b:free",
-        "description": "مدل GPT متن‌باز با 20 میلیارد پارامتر از OpenAI"
-    },
-    {
-        "id": "z-ai\/glm-4.5-air:free",
-        "description": "مدل GLM نسخه 4.5 با عملکرد سبک و سریع"
-    },
-    {
-        "id": "qwen\/qwen3-coder:free",
-        "description": "نسخه برنامه‌نویسی شده از مدل Qwen 3"
-    },
-    {
-        "id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
-        "description": "نسخه ونیزی مدل Dolphin-Mistral با 24 میلیارد پارامتر"
-    },
-    {
-        "id": "google\/gemma-3n-e2b-it:free",
-        "description": "مدل Gemma 3 با 2 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "deepseek\/deepseek-r1-0528:free",
-        "description": "مدل DeepSeek R1 با تاریخچه 0528"
-    },
-    {
-        "id": "google\/gemma-3n-e4b-it:free",
-        "description": "مدل Gemma 3 با 4 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "qwen\/qwen3-4b:free",
-        "description": "مدل Qwen 3 با 4 میلیارد پارامتر"
-    },
-    {
-        "id": "mistralai\/mistral-small-3.1-24b-instruct:free",
-        "description": "مدل Mistral Small نسخه 3.1 با 24 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "google\/gemma-3-4b-it:free",
-        "description": "مدل Gemma 3 با 4 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "google\/gemma-3-12b-it:free",
-        "description": "مدل Gemma 3 با 12 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "google\/gemma-3-27b-it:free",
-        "description": "مدل Gemma 3 با 27 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "meta-llama\/llama-3.3-70b-instruct:free",
-        "description": "مدل Llama 3.3 با 70 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "meta-llama\/llama-3.2-3b-instruct:free",
-        "description": "مدل Llama 3.2 با 3 میلیارد پارامتر برای دستورالعمل‌ها"
-    },
-    {
-        "id": "nousresearch\/hermes-3-llama-3.1-405b:free",
-        "description": "مدل Hermes 3 مبتنی بر Llama 3.1 با 405 میلیارد پارامتر"
-    }
-]
+{
+    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایی از مدل Trinity با ظرفیت پردازش بالا",
+    "arcee-ai\/trinity-mini:free": "نسخه کوچک‌تر مدل Trinity با کارایی بهینه",
+    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیزی از مدل Dolphin-Mistral با 24 میلیارد پارامتر",
+    "deepseek\/deepseek-r1-0528:free": "مدل Deepseek با قابلیت تحلیل و پاسخگویی در موضوعات تخصصی",
+    "google\/gemma-3-12b-it:free": "مدل Gemma با 12 میلیارد پارامتر و قابلیت درک دستورالعمل‌ها",
+    "google\/gemma-3-27b-it:free": "مدل Gemma با 27 میلیارد پارامتر و قابلیت درک دستورالعمل‌ها",
+    "google\/gemma-3-4b-it:free": "مدل Gemma با 4 میلیارد پارامتر و قابلیت درک دستورالعمل‌ها",
+    "google\/gemma-3n-e2b-it:free": "مدل Gemma با قابلیت درک و تولید متن به زبان انگلیسی",
+    "google\/gemma-3n-e4b-it:free": "مدل Gemma با قابلیت درک و تولید متن به زبان انگلیسی با اندازه بزرگتر",
+    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل LFM بهینه شده برای پیروی از دستورالعمل‌ها",
+    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل LFM با قابلیت تفکر عمیق و تحلیل مسائل پیچیده",
+    "meta-llama\/llama-3.2-3b-instruct:free": "مدل Llama با 3 میلیارد پارامتر بهینه شده برای دستورالعمل‌ها",
+    "meta-llama\/llama-3.3-70b-instruct:free": "مدل Llama با 70 میلیارد پارامتر بهینه شده برای دستورالعمل‌ها",
+    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل Mistral کوچک با 24 میلیارد پارامتر بهینه شده برای دستورالعمل‌ها",
+    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل Hermes با 405 میلیارد پارامتر بر پایه Llama",
+    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل Nemotron با اندازه 30 میلیارد پارامتر و قابلیت تولید متن با کیفیت بالا",
+    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل Nemotron با قابلیت پردازش تصویر و متن (Vision-Language)",
+    "nvidia\/nemotron-nano-9b-v2:free": "نسخه بهبودیافته مدل Nemotron با 9 میلیارد پارامتر",
+    "openai\/gpt-oss-120b:free": "مدل GPT متن‌باز با 120 میلیارد پارامتر",
+    "openai\/gpt-oss-20b:free": "مدل GPT متن‌باز با 20 میلیارد پارامتر",
+    "qwen\/qwen3-4b:free": "مدل Qwen با 4 میلیارد پارامتر",
+    "qwen\/qwen3-coder:free": "نسخه برنامه‌نویسی شده از مدل Qwen برای توسعه نرم‌افزار",
+    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل Qwen با 80 میلیارد پارامتر بهینه شده برای دستورالعمل‌ها",
+    "stepfun\/step-3.5-flash:free": "مدل زبان بزرگ با قابلیت پاسخگویی سریع و کارایی بالا",
+    "upstage\/solar-pro-3:free": "مدل SOLAR با قابلیت‌های پیشرفته در پردازش زبان طبیعی",
+    "z-ai\/glm-4.5-air:free": "مدل GLM با قابلیت‌های سبک و سریع"
+}
