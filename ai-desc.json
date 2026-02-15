@@ -1,28 +1,106 @@
-{
-    "arcee-ai\/trinity-large-preview:free": "نسخه پیش‌نمایی مدل Trinity با ظرفیت بالا",
-    "arcee-ai\/trinity-mini:free": "نسخه کوچک‌تر مدل Trinity با کارایی بالا",
-    "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free": "نسخه ونیزی مدل Dolphin-Mistral با ظرفیت 24 میلیارد پارامتر",
-    "deepseek\/deepseek-r1-0528:free": "مدل Deepseek با نسخه R1 و تاریخچه 0528",
-    "google\/gemma-3-12b-it:free": "مدل Gemma با اندازه 12 میلیارد پارامتر و قابلیت توضیح",
-    "google\/gemma-3-27b-it:free": "مدل Gemma با اندازه 27 میلیارد پارامتر و قابلیت توضیح",
-    "google\/gemma-3-4b-it:free": "مدل Gemma با اندازه 4 میلیارد پارامتر و قابلیت توضیح",
-    "google\/gemma-3n-e2b-it:free": "مدل Gemma با اندازه 3 میلیارد پارامتر و قابلیت توضیح",
-    "google\/gemma-3n-e4b-it:free": "مدل Gemma با اندازه 3 میلیارد پارامتر و قابلیت توضیح",
-    "liquid\/lfm-2.5-1.2b-instruct:free": "مدل LFM برای دستورالعمل‌ها و راهنمایی‌ها",
-    "liquid\/lfm-2.5-1.2b-thinking:free": "مدل LFM با قابلیت تفکر و استدلال",
-    "meta-llama\/llama-3.2-3b-instruct:free": "مدل Llama با نسخه 3.2 و ظرفیت 3 میلیارد پارامتر",
-    "meta-llama\/llama-3.3-70b-instruct:free": "مدل Llama با نسخه 3.3 و ظرفیت 70 میلیارد پارامتر",
-    "mistralai\/mistral-small-3.1-24b-instruct:free": "مدل Mistral با اندازه کوچک و ظرفیت 24 میلیارد پارامتر",
-    "nousresearch\/hermes-3-llama-3.1-405b:free": "مدل Hermes با نسخه 3 و پایه Llama با ظرفیت 405 میلیارد پارامتر",
-    "nvidia\/nemotron-3-nano-30b-a3b:free": "مدل Nemotron با اندازه نانو و ظرفیت 30 میلیارد پارامتر",
-    "nvidia\/nemotron-nano-12b-v2-vl:free": "مدل Nemotron با قابلیت بینایی و اندازه نانو",
-    "nvidia\/nemotron-nano-9b-v2:free": "مدل Nemotron با اندازه نانو و ظرفیت 9 میلیارد پارامتر",
-    "openai\/gpt-oss-120b:free": "مدل GPT متن‌باز با ظرفیت 120 میلیارد پارامتر",
-    "openai\/gpt-oss-20b:free": "مدل GPT متن‌باز با ظرفیت 20 میلیارد پارامتر",
-    "qwen\/qwen3-4b:free": "مدل Qwen با ظرفیت 4 میلیارد پارامتر",
-    "qwen\/qwen3-coder:free": "نسخه برنامه‌نویسی مدل Qwen",
-    "qwen\/qwen3-next-80b-a3b-instruct:free": "مدل Qwen با ظرفیت 80 میلیارد پارامتر و قابلیت دستورالعمل",
-    "stepfun\/step-3.5-flash:free": "مدل زبان بزرگ با سرعت بالا و عملکرد خوب",
-    "upstage\/solar-pro-3:free": "مدل SOLAR با عملکرد پیشرفته و بهینه‌سازی شده",
-    "z-ai\/glm-4.5-air:free": "مدل GLM با نسخه 4.5 و سبک بودن"
-}
+[
+    {
+        "model_id": "stepfun\/step-3.5-flash:free",
+        "description": "مدل زبانی سریع و کارآمد برای پاسخ‌دهی فوری"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-large-preview:free",
+        "description": "نسخه پیش‌نمایی از مدل Trinity با ظرفیت پردازشی بالا"
+    },
+    {
+        "model_id": "upstage\/solar-pro-3:free",
+        "description": "مدل SOLAR با قابلیت‌های پیشرفته در پردازش زبان طبیعی"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-thinking:free",
+        "description": "مدل LFM با قابلیت تفکر عمیق و تحلیل مسائل پیچیده"
+    },
+    {
+        "model_id": "liquid\/lfm-2.5-1.2b-instruct:free",
+        "description": "مدل LFM با قابلیت دنبال کردن دستورالعمل‌ها به دقت"
+    },
+    {
+        "model_id": "nvidia\/nemotron-3-nano-30b-a3b:free",
+        "description": "مدل Nemutron با ظرفیت 30 میلیارد پارامتر برای کاربردهای متنوع"
+    },
+    {
+        "model_id": "arcee-ai\/trinity-mini:free",
+        "description": "نسخه سبک‌تر و سریع‌تر مدل Trinity برای استفاده آسان"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-12b-v2-vl:free",
+        "description": "مدل Nemutron با قابلیت پردازش تصویر و ظرفیت 12 میلیارد پارامتر"
+    },
+    {
+        "model_id": "qwen\/qwen3-next-80b-a3b-instruct:free",
+        "description": "مدل Qwen با ظرفیت 80 میلیارد پارامتر و دقت بالا در دستورالعمل‌ها"
+    },
+    {
+        "model_id": "nvidia\/nemotron-nano-9b-v2:free",
+        "description": "مدل Nemutron سبک با ظرفیت 9 میلیارد پارامتر"
+    },
+    {
+        "model_id": "openai\/gpt-oss-120b:free",
+        "description": "مدل GPT با ظرفیت 120 میلیارد پارامتر و منبع باز"
+    },
+    {
+        "model_id": "openai\/gpt-oss-20b:free",
+        "description": "مدل GPT با ظرفیت 20 میلیارد پارامتر و منبع باز"
+    },
+    {
+        "model_id": "z-ai\/glm-4.5-air:free",
+        "description": "مدل GLM نسخه 4.5 با قابلیت‌های سبک و سریع"
+    },
+    {
+        "model_id": "qwen\/qwen3-coder:free",
+        "description": "نسخه تخصصی برنامه‌نویسی مدل Qwen برای توسعه‌دهندگان"
+    },
+    {
+        "model_id": "cognitivecomputations\/dolphin-mistral-24b-venice-edition:free",
+        "description": "نسخه ونیزی مدل Dolphin-Mistral با ظرفیت 24 میلیارد پارامتر"
+    },
+    {
+        "model_id": "google\/gemma-3n-e2b-it:free",
+        "description": "مدل Gemma با قابلیت بینایی و ظرفیت 2 میلیارد پارامتر"
+    },
+    {
+        "model_id": "deepseek\/deepseek-r1-0528:free",
+        "description": "مدل Deepseek با نسخه R1 و قابلیت‌های تحلیلی پیشرفته"
+    },
+    {
+        "model_id": "google\/gemma-3n-e4b-it:free",
+        "description": "مدل Gemma با قابلیت بینایی و ظرفیت 4 میلیارد پارامتر"
+    },
+    {
+        "model_id": "qwen\/qwen3-4b:free",
+        "description": "مدل Qwen با ظرفیت 4 میلیارد پارامتر برای کاربردهای سبک"
+    },
+    {
+        "model_id": "mistralai\/mistral-small-3.1-24b-instruct:free",
+        "description": "مدل Mistral با ظرفیت 24 میلیارد پارامتر و دقت بالا در دستورالعمل‌ها"
+    },
+    {
+        "model_id": "google\/gemma-3-4b-it:free",
+        "description": "مدل Gemma با ظرفیت 4 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری"
+    },
+    {
+        "model_id": "google\/gemma-3-12b-it:free",
+        "description": "مدل Gemma با ظرفیت 12 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری"
+    },
+    {
+        "model_id": "google\/gemma-3-27b-it:free",
+        "description": "مدل Gemma با ظرفیت 27 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.3-70b-instruct:free",
+        "description": "مدل Llama با ظرفیت 70 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری"
+    },
+    {
+        "model_id": "meta-llama\/llama-3.2-3b-instruct:free",
+        "description": "مدل Llama با ظرفیت 3 میلیارد پارامتر و قابلیت دستورالعمل‌پذیری"
+    },
+    {
+        "model_id": "nousresearch\/hermes-3-llama-3.1-405b:free",
+        "description": "مدل Hermes با ظرفیت 405 میلیارد پارامتر و قابلیت‌های پیشرفته"
+    }
+]
