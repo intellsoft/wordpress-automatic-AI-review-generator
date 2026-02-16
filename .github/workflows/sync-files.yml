@@ -1,14 +1,8 @@
 name: Sync selected JSON/TXT files to openrouter-free-ai-model-auto-update
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - "ai-desc.json"
-      - "ai.txt"
   schedule:
-    # هر هفته یکشنبه ساعت 01:00 شب UTC
+    # هر هفته یکشنبه ساعت 01:00 UTC
     - cron: '0 1 * * 0'
 
 jobs:
@@ -27,19 +21,21 @@ jobs:
       - name: Wait until files are updated (max 5 min)
         run: |
           echo "Waiting for ai.txt and ai-desc.json to be ready..."
-          MAX_WAIT=300   # حداکثر ۵ دقیقه (۳۰۰ ثانیه)
-          INTERVAL=10   # هر ۱۰ ثانیه بررسی می‌کنیم
+          MAX_WAIT=300
+          INTERVAL=10
           ELAPSED=0
+
           while true; do
-            # بررسی وجود فایل‌ها در ریپوی محلی بعد از اجرای PHP
             if [[ -f "ai.txt" && -f "ai-desc.json" ]]; then
               echo "Files are ready!"
               break
             fi
+
             if [ $ELAPSED -ge $MAX_WAIT ]; then
               echo "Timeout reached: Files not ready after $MAX_WAIT seconds"
               exit 1
             fi
+
             echo "Files not ready yet, waiting $INTERVAL seconds..."
             sleep $INTERVAL
             ELAPSED=$((ELAPSED + INTERVAL))
@@ -47,7 +43,7 @@ jobs:
 
       - name: Prepare files to sync
         run: |
-          mkdir sync-output
+          mkdir -p sync-output
           cp ai-desc.json sync-output/
           cp ai.txt sync-output/
 
