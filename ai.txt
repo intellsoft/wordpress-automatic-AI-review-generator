@@ -14,7 +14,6 @@ z-ai/glm-4.5-air:free
 qwen/qwen3-coder:free
 cognitivecomputations/dolphin-mistral-24b-venice-edition:free
 google/gemma-3n-e2b-it:free
-deepseek/deepseek-r1-0528:free
 google/gemma-3n-e4b-it:free
 qwen/qwen3-4b:free
 mistralai/mistral-small-3.1-24b-instruct:free
